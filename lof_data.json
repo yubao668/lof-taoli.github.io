@@ -37,9 +37,9 @@
     "name": "上证50增强LOF(退市)",
     "price": 0.99,
     "nav_prev": 0.9888,
-    "nav_estimated": 30.0203,
+    "nav_estimated": 29.9683,
     "index_name": "上证50指数",
-    "index_change": 2936.03,
+    "index_change": 2930.77,
     "premium_estimated": -96.7,
     "premium_prev": 0.12
   },
@@ -48,10 +48,10 @@
     "name": "上证50LOF",
     "price": 1.223,
     "nav_prev": 1.2316,
-    "nav_estimated": 37.3918,
+    "nav_estimated": 37.327,
     "index_name": "上证50指数",
-    "index_change": 2936.03,
-    "premium_estimated": -96.73,
+    "index_change": 2930.77,
+    "premium_estimated": -96.72,
     "premium_prev": -0.7
   },
   {
@@ -59,10 +59,10 @@
     "name": "50AHLOF",
     "price": 1.726,
     "nav_prev": 1.743,
-    "nav_estimated": 52.9181,
+    "nav_estimated": 52.8263,
     "index_name": "上证50指数",
-    "index_change": 2936.03,
-    "premium_estimated": -96.74,
+    "index_change": 2930.77,
+    "premium_estimated": -96.73,
     "premium_prev": -0.98
   },
   {
@@ -70,10 +70,10 @@
     "name": "上证50LOF基金(退市)",
     "price": 0.928,
     "nav_prev": 0.937,
-    "nav_estimated": 28.4476,
+    "nav_estimated": 28.3983,
     "index_name": "上证50指数",
-    "index_change": 2936.03,
-    "premium_estimated": -96.74,
+    "index_change": 2930.77,
+    "premium_estimated": -96.73,
     "premium_prev": -0.96
   },
   {
