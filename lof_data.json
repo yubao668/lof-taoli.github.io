@@ -1155,6 +1155,17 @@
     "premium_prev": -1.78
   },
   {
+    "code": "160722",
+    "name": "嘉实惠泽LOF",
+    "price": 1.906,
+    "nav_prev": 1.9429,
+    "nav_estimated": 93.5403,
+    "index_name": "沪深300指数",
+    "index_change": 4714.47,
+    "premium_estimated": -97.96,
+    "premium_prev": -1.9
+  },
+  {
     "code": "168105",
     "name": "九泰泰富LOF",
     "price": 1.928,
@@ -2704,17 +2715,6 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.84
-  },
-  {
-    "code": "160722",
-    "name": "嘉实惠泽LOF",
-    "price": 1.906,
-    "nav_prev": 1.9429,
-    "nav_estimated": null,
-    "index_name": "沪深300指数",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -1.9
   },
   {
     "code": "164814",
