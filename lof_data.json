@@ -81,10 +81,10 @@
     "name": "创业板LOF",
     "price": 2.055,
     "nav_prev": 2.0605,
-    "nav_estimated": 76.9143,
+    "nav_estimated": 76.7535,
     "index_name": "创业板指数",
-    "index_change": 3632.8,
-    "premium_estimated": -97.33,
+    "index_change": 3624.99,
+    "premium_estimated": -97.32,
     "premium_prev": -0.27
   },
   {
@@ -92,10 +92,10 @@
     "name": "创业板LOF基金",
     "price": 1.701,
     "nav_prev": 1.7052,
-    "nav_estimated": 63.6517,
+    "nav_estimated": 63.5186,
     "index_name": "创业板指数",
-    "index_change": 3632.8,
-    "premium_estimated": -97.33,
+    "index_change": 3624.99,
+    "premium_estimated": -97.32,
     "premium_prev": -0.25
   },
   {
@@ -1390,10 +1390,10 @@
     "name": "国投深证100LOF",
     "price": 1.712,
     "nav_prev": 1.7167,
-    "nav_estimated": 110.1631,
+    "nav_estimated": 110.0343,
     "index_name": "深证100指数",
-    "index_change": 6317.15,
-    "premium_estimated": -98.45,
+    "index_change": 6309.64,
+    "premium_estimated": -98.44,
     "premium_prev": -0.27
   },
   {
@@ -1401,9 +1401,9 @@
     "name": "深证100LOF",
     "price": 1.445,
     "nav_prev": 1.451,
-    "nav_estimated": 93.1128,
+    "nav_estimated": 93.0039,
     "index_name": "深证100指数",
-    "index_change": 6317.15,
+    "index_change": 6309.64,
     "premium_estimated": -98.45,
     "premium_prev": -0.41
   },
