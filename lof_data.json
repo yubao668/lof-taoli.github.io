@@ -330,17 +330,6 @@
     "premium_prev": 0.0
   },
   {
-    "code": "160212",
-    "name": "国泰估值LOF",
-    "price": 4.327,
-    "nav_prev": 4.323,
-    "nav_estimated": 209.0432,
-    "index_name": "沪深300指数",
-    "index_change": 4735.61,
-    "premium_estimated": -97.93,
-    "premium_prev": 0.09
-  },
-  {
     "code": "160215",
     "name": "国泰价值LOF",
     "price": 3.028,
@@ -691,17 +680,6 @@
     "index_change": 4735.61,
     "premium_estimated": -97.95,
     "premium_prev": -1.06
-  },
-  {
-    "code": "501202",
-    "name": "华泰创新先锋LOF",
-    "price": 1.188,
-    "nav_prev": 1.1983,
-    "nav_estimated": 57.9451,
-    "index_name": "沪深300指数",
-    "index_change": 4735.61,
-    "premium_estimated": -97.95,
-    "premium_prev": -0.86
   },
   {
     "code": "501186",
@@ -2748,17 +2726,6 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.08
-  },
-  {
-    "code": "164403",
-    "name": "农业精选LOF",
-    "price": 1.049,
-    "nav_prev": 1.0448,
-    "nav_estimated": null,
-    "index_name": "恒生指数",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": 0.4
   },
   {
     "code": "160225",
