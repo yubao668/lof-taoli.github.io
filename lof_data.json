@@ -1353,17 +1353,6 @@
     "premium_prev": -2.1
   },
   {
-    "code": "501001",
-    "name": "财通精选混合LOF",
-    "price": 1.55,
-    "nav_prev": 1.584,
-    "nav_estimated": 77.5771,
-    "index_name": "沪深300指数",
-    "index_change": 4797.54,
-    "premium_estimated": -98.0,
-    "premium_prev": -2.15
-  },
-  {
     "code": "501039",
     "name": "添富睿丰LOF(退市)",
     "price": 1.119,
@@ -2924,17 +2913,6 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.1
-  },
-  {
-    "code": "502023",
-    "name": "钢铁LOF",
-    "price": 1.899,
-    "nav_prev": 1.9291,
-    "nav_estimated": null,
-    "index_name": "国证钢铁行业指数收益率*95%+商业银行活期存款利率(税后)",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -1.56
   },
   {
     "code": "502053",
