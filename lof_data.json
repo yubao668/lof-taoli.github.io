@@ -26,10 +26,10 @@
     "name": "申万环保LOF",
     "price": 1.485,
     "nav_prev": 1.4986,
-    "nav_estimated": 33.3648,
+    "nav_estimated": 33.3104,
     "index_name": "中证环保指数",
-    "index_change": 2126.4,
-    "premium_estimated": -95.55,
+    "index_change": 2122.77,
+    "premium_estimated": -95.54,
     "premium_prev": -0.91
   },
   {
@@ -1412,9 +1412,9 @@
     "name": "医药增强LOF",
     "price": 1.254,
     "nav_prev": 1.252,
-    "nav_estimated": 101.4343,
+    "nav_estimated": 101.378,
     "index_name": "中证医药指数",
-    "index_change": 8001.78,
+    "index_change": 7997.29,
     "premium_estimated": -98.76,
     "premium_prev": 0.16
   },
@@ -1423,10 +1423,10 @@
     "name": "医药LOF基金",
     "price": 0.888,
     "nav_prev": 0.8948,
-    "nav_estimated": 72.4948,
+    "nav_estimated": 72.4545,
     "index_name": "中证医药指数",
-    "index_change": 8001.78,
-    "premium_estimated": -98.78,
+    "index_change": 7997.29,
+    "premium_estimated": -98.77,
     "premium_prev": -0.76
   },
   {
@@ -1434,9 +1434,9 @@
     "name": "长信医疗LOF",
     "price": 1.417,
     "nav_prev": 1.437,
-    "nav_estimated": 116.4226,
+    "nav_estimated": 116.358,
     "index_name": "中证医药指数",
-    "index_change": 8001.78,
+    "index_change": 7997.29,
     "premium_estimated": -98.78,
     "premium_prev": -1.39
   },
@@ -1599,9 +1599,9 @@
     "name": "消费龙头LOF",
     "price": 1.142,
     "nav_prev": 1.1503,
-    "nav_estimated": 165.0268,
+    "nav_estimated": 164.4086,
     "index_name": "中证消费指数",
-    "index_change": 14246.41,
+    "index_change": 14192.67,
     "premium_estimated": -99.31,
     "premium_prev": -0.72
   },
