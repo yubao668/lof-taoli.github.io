@@ -1551,17 +1551,6 @@
     "premium_prev": -0.76
   },
   {
-    "code": "165511",
-    "name": "中信保诚500LOF",
-    "price": 2.385,
-    "nav_prev": 2.4058,
-    "nav_estimated": 209.6949,
-    "index_name": "中证500指数",
-    "index_change": 8616.22,
-    "premium_estimated": -98.86,
-    "premium_prev": -0.86
-  },
-  {
     "code": "160616",
     "name": "鹏华500LOF",
     "price": 2.507,
@@ -3980,6 +3969,17 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.42
+  },
+  {
+    "code": "165511",
+    "name": "中信保诚500LOF",
+    "price": 2.385,
+    "nav_prev": 2.4058,
+    "nav_estimated": null,
+    "index_name": "中证500指数",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": -0.86
   },
   {
     "code": "164808",
