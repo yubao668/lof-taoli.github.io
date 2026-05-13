@@ -37,10 +37,10 @@
     "name": "上证50增强LOF(退市)",
     "price": 0.99,
     "nav_prev": 0.9888,
-    "nav_estimated": 30.9407,
+    "nav_estimated": 30.8392,
     "index_name": "上证50指数",
-    "index_change": 3029.12,
-    "premium_estimated": -96.8,
+    "index_change": 3018.85,
+    "premium_estimated": -96.79,
     "premium_prev": 0.12
   },
   {
@@ -48,10 +48,10 @@
     "name": "上证50LOF",
     "price": 1.273,
     "nav_prev": 1.2805,
-    "nav_estimated": 40.0683,
+    "nav_estimated": 39.9369,
     "index_name": "上证50指数",
-    "index_change": 3029.12,
-    "premium_estimated": -96.82,
+    "index_change": 3018.85,
+    "premium_estimated": -96.81,
     "premium_prev": -0.59
   },
   {
@@ -59,10 +59,10 @@
     "name": "上证50LOF基金(退市)",
     "price": 0.928,
     "nav_prev": 0.937,
-    "nav_estimated": 29.3198,
+    "nav_estimated": 29.2236,
     "index_name": "上证50指数",
-    "index_change": 3029.12,
-    "premium_estimated": -96.83,
+    "index_change": 3018.85,
+    "premium_estimated": -96.82,
     "premium_prev": -0.96
   },
   {
@@ -70,10 +70,10 @@
     "name": "50AHLOF",
     "price": 1.81,
     "nav_prev": 1.829,
-    "nav_estimated": 57.2315,
+    "nav_estimated": 57.0438,
     "index_name": "上证50指数",
-    "index_change": 3029.12,
-    "premium_estimated": -96.84,
+    "index_change": 3018.85,
+    "premium_estimated": -96.83,
     "premium_prev": -1.04
   },
   {
@@ -81,10 +81,10 @@
     "name": "创业板LOF",
     "price": 2.17,
     "nav_prev": 2.1748,
-    "nav_estimated": 87.008,
+    "nav_estimated": 86.8572,
     "index_name": "创业板指数",
-    "index_change": 3900.74,
-    "premium_estimated": -97.51,
+    "index_change": 3893.8,
+    "premium_estimated": -97.5,
     "premium_prev": -0.22
   },
   {
@@ -92,10 +92,10 @@
     "name": "创业板LOF基金",
     "price": 1.795,
     "nav_prev": 1.7995,
-    "nav_estimated": 71.9933,
+    "nav_estimated": 71.8685,
     "index_name": "创业板指数",
-    "index_change": 3900.74,
-    "premium_estimated": -97.51,
+    "index_change": 3893.8,
+    "premium_estimated": -97.5,
     "premium_prev": -0.25
   },
   {
@@ -136,9 +136,9 @@
     "name": "1000增强LOF",
     "price": 3.01,
     "nav_prev": 2.9981,
-    "nav_estimated": 148.7869,
+    "nav_estimated": 148.6483,
     "index_name": "中证100指数",
-    "index_change": 4862.71,
+    "index_change": 4858.08,
     "premium_estimated": -97.98,
     "premium_prev": 0.4
   },
@@ -152,6 +152,17 @@
     "index_change": 4919.42,
     "premium_estimated": -97.98,
     "premium_prev": 1.64
+  },
+  {
+    "code": "164508",
+    "name": "国富中证A100LOF",
+    "price": 1.409,
+    "nav_prev": 1.417,
+    "nav_estimated": 70.2561,
+    "index_name": "中证100指数",
+    "index_change": 4858.08,
+    "premium_estimated": -97.99,
+    "premium_prev": -0.56
   },
   {
     "code": "501040",
@@ -185,17 +196,6 @@
     "index_change": 4919.42,
     "premium_estimated": -97.99,
     "premium_prev": 0.97
-  },
-  {
-    "code": "164508",
-    "name": "国富中证A100LOF",
-    "price": 1.409,
-    "nav_prev": 1.417,
-    "nav_estimated": 70.3215,
-    "index_name": "中证100指数",
-    "index_change": 4862.71,
-    "premium_estimated": -98.0,
-    "premium_prev": -0.56
   },
   {
     "code": "160323",
@@ -1412,10 +1412,10 @@
     "name": "医药增强LOF",
     "price": 1.271,
     "nav_prev": 1.264,
-    "nav_estimated": 103.1704,
+    "nav_estimated": 101.853,
     "index_name": "中证医药指数",
-    "index_change": 8062.22,
-    "premium_estimated": -98.77,
+    "index_change": 7957.99,
+    "premium_estimated": -98.75,
     "premium_prev": 0.55
   },
   {
@@ -1423,10 +1423,10 @@
     "name": "长信医疗LOF",
     "price": 1.458,
     "nav_prev": 1.461,
-    "nav_estimated": 118.4287,
+    "nav_estimated": 117.7126,
     "index_name": "中证医药指数",
-    "index_change": 8006.0,
-    "premium_estimated": -98.77,
+    "index_change": 7956.99,
+    "premium_estimated": -98.76,
     "premium_prev": -0.21
   },
   {
@@ -1434,10 +1434,10 @@
     "name": "医药LOF基金",
     "price": 0.895,
     "nav_prev": 0.9019,
-    "nav_estimated": 73.5557,
+    "nav_estimated": 72.666,
     "index_name": "中证医药指数",
-    "index_change": 8055.63,
-    "premium_estimated": -98.78,
+    "index_change": 7956.99,
+    "premium_estimated": -98.77,
     "premium_prev": -0.77
   },
   {
@@ -1599,10 +1599,10 @@
     "name": "消费龙头LOF",
     "price": 1.136,
     "nav_prev": 1.1392,
-    "nav_estimated": 159.8921,
+    "nav_estimated": 158.0789,
     "index_name": "中证消费指数",
-    "index_change": 13935.47,
-    "premium_estimated": -99.29,
+    "index_change": 13776.31,
+    "premium_estimated": -99.28,
     "premium_prev": -0.28
   },
   {
