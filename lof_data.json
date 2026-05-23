@@ -341,28 +341,6 @@
     "premium_prev": 0.3
   },
   {
-    "code": "163415",
-    "name": "兴全商业模式LOF",
-    "price": 5.502,
-    "nav_prev": 5.498,
-    "nav_estimated": 268.5965,
-    "index_name": "沪深300指数",
-    "index_change": 4785.35,
-    "premium_estimated": -97.95,
-    "premium_prev": 0.07
-  },
-  {
-    "code": "165516",
-    "name": "中信保诚周期LOF",
-    "price": 9.232,
-    "nav_prev": 9.2192,
-    "nav_estimated": 450.3901,
-    "index_name": "沪深300指数",
-    "index_change": 4785.35,
-    "premium_estimated": -97.95,
-    "premium_prev": 0.14
-  },
-  {
     "code": "163406",
     "name": "兴全合润LOF",
     "price": 2.59,
@@ -515,28 +493,6 @@
     "index_change": 4785.35,
     "premium_estimated": -97.96,
     "premium_prev": -0.28
-  },
-  {
-    "code": "163821",
-    "name": "沪深300等权LOF",
-    "price": 2.139,
-    "nav_prev": 2.1441,
-    "nav_estimated": 104.7468,
-    "index_name": "沪深300指数",
-    "index_change": 4785.35,
-    "premium_estimated": -97.96,
-    "premium_prev": -0.24
-  },
-  {
-    "code": "165515",
-    "name": "中信保诚300LOF",
-    "price": 1.341,
-    "nav_prev": 1.3456,
-    "nav_estimated": 65.7373,
-    "index_name": "沪深300指数",
-    "index_change": 4785.35,
-    "premium_estimated": -97.96,
-    "premium_prev": -0.34
   },
   {
     "code": "165512",
@@ -836,28 +792,6 @@
     "premium_prev": -0.81
   },
   {
-    "code": "160212",
-    "name": "国泰估值LOF",
-    "price": 4.96,
-    "nav_prev": 4.9969,
-    "nav_estimated": 244.116,
-    "index_name": "沪深300指数",
-    "index_change": 4785.35,
-    "premium_estimated": -97.97,
-    "premium_prev": -0.74
-  },
-  {
-    "code": "160916",
-    "name": "优选LOF",
-    "price": 4.363,
-    "nav_prev": 4.398,
-    "nav_estimated": 214.8576,
-    "index_name": "沪深300指数",
-    "index_change": 4785.35,
-    "premium_estimated": -97.97,
-    "premium_prev": -0.8
-  },
-  {
     "code": "165309",
     "name": "沪深300LOF建信",
     "price": 1.988,
@@ -1122,17 +1056,6 @@
     "premium_prev": -1.9
   },
   {
-    "code": "163412",
-    "name": "兴全轻资产LOF",
-    "price": 4.157,
-    "nav_prev": 4.227,
-    "nav_estimated": 206.5037,
-    "index_name": "沪深300指数",
-    "index_change": 4785.35,
-    "premium_estimated": -97.99,
-    "premium_prev": -1.66
-  },
-  {
     "code": "162006",
     "name": "长城久富LOF",
     "price": 1.994,
@@ -1219,17 +1142,6 @@
     "index_change": 4785.35,
     "premium_estimated": -98.0,
     "premium_prev": -2.12
-  },
-  {
-    "code": "165313",
-    "name": "建信优势LOF",
-    "price": 4.622,
-    "nav_prev": 4.73,
-    "nav_estimated": 231.077,
-    "index_name": "沪深300指数",
-    "index_change": 4785.35,
-    "premium_estimated": -98.0,
-    "premium_prev": -2.28
   },
   {
     "code": "160314",
@@ -3672,149 +3584,6 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": 0.2
-  },
-  {
-    "code": "164815",
-    "name": "原油LOF(退市)",
-    "price": 0.716,
-    "nav_prev": 0.7244,
-    "nav_estimated": null,
-    "index_name": "Brent原油期货主力合约收益率(汇率调整后)*45%+WT",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -1.16
-  },
-  {
-    "code": "162715",
-    "name": "广发聚源LOF",
-    "price": 1.184,
-    "nav_prev": 1.1835,
-    "nav_estimated": null,
-    "index_name": "中债总全价指数收益率",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": 0.04
-  },
-  {
-    "code": "160218",
-    "name": "房地产LOF",
-    "price": 0.625,
-    "nav_prev": 0.6254,
-    "nav_estimated": null,
-    "index_name": "国证房地产行业指数收益率*95%+银行活期存款利率(税后)*",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.06
-  },
-  {
-    "code": "161119",
-    "name": "易方达新综债LOF",
-    "price": 1.781,
-    "nav_prev": 1.7806,
-    "nav_estimated": null,
-    "index_name": "中债-新综合指数",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": 0.02
-  },
-  {
-    "code": "160621",
-    "name": "鹏华丰和LOF",
-    "price": 1.405,
-    "nav_prev": 1.4078,
-    "nav_estimated": null,
-    "index_name": "中债综合指数收益率",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.2
-  },
-  {
-    "code": "160620",
-    "name": "资源LOF",
-    "price": 2.988,
-    "nav_prev": 3.001,
-    "nav_estimated": null,
-    "index_name": "中证A股资源产业指数收益率*95%+银行活期存款利率(税后)",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.43
-  },
-  {
-    "code": "161820",
-    "name": "银华纯债LOF",
-    "price": 1.155,
-    "nav_prev": 1.1556,
-    "nav_estimated": null,
-    "index_name": "中债综合指数(全价)",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.05
-  },
-  {
-    "code": "161019",
-    "name": "富国天锋LOF",
-    "price": 1.242,
-    "nav_prev": 1.232,
-    "nav_estimated": null,
-    "index_name": "中债综合指数",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": 0.81
-  },
-  {
-    "code": "160216",
-    "name": "国泰商品LOF",
-    "price": 0.739,
-    "nav_prev": 0.746,
-    "nav_estimated": null,
-    "index_name": "国泰大宗商品配置指数(全收益指数)",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.94
-  },
-  {
-    "code": "160416",
-    "name": "石油基金LOF",
-    "price": 2.135,
-    "nav_prev": 2.1595,
-    "nav_estimated": null,
-    "index_name": "标普全球石油净总收益指数收益率(S&P Global Oil",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -1.13
-  },
-  {
-    "code": "160127",
-    "name": "南方消费LOF",
-    "price": 0.881,
-    "nav_prev": 0.8827,
-    "nav_estimated": null,
-    "index_name": "中证内地消费主题指数收益率*55%+中证港股通主要消费综合指",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.19
-  },
-  {
-    "code": "163819",
-    "name": "中银信用增利LOF",
-    "price": 1.213,
-    "nav_prev": 1.2053,
-    "nav_estimated": null,
-    "index_name": "中债企业债总全价指数收益率*80%+中债国债总全价指数收益率",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": 0.64
-  },
-  {
-    "code": "161614",
-    "name": "融通四季添利LOF",
-    "price": 1.12,
-    "nav_prev": 1.1203,
-    "nav_estimated": null,
-    "index_name": "中债综合指数收益率",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.03
   },
   {
     "code": "165513",
