@@ -1727,17 +1727,6 @@
     "premium_prev": -2.14
   },
   {
-    "code": "502056",
-    "name": "医疗基金LOF",
-    "price": 0.634,
-    "nav_prev": 0.6353,
-    "nav_estimated": null,
-    "index_name": "中证医疗指数收益率*95%+银行活期存款利率(税后)*5%",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.2
-  },
-  {
     "code": "161121",
     "name": "银行LOF易方达",
     "price": 1.545,
@@ -2011,17 +2000,6 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": 0.0
-  },
-  {
-    "code": "501071",
-    "name": "泓德丰泽LOF",
-    "price": 0.944,
-    "nav_prev": 0.9436,
-    "nav_estimated": null,
-    "index_name": "中证800指数收益率*70%+中国债券综合全价指数收益率*3",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": 0.04
   },
   {
     "code": "160925",
