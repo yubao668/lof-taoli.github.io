@@ -913,6 +913,17 @@
     "premium_prev": -0.97
   },
   {
+    "code": "501202",
+    "name": "华泰创新先锋LOF",
+    "price": 1.228,
+    "nav_prev": 1.2451,
+    "nav_estimated": 60.8275,
+    "index_name": "沪深300指数",
+    "index_change": 4785.35,
+    "premium_estimated": -97.98,
+    "premium_prev": -1.37
+  },
+  {
     "code": "160527",
     "name": "博时研究优选LOF",
     "price": 0.99,
@@ -1430,6 +1441,17 @@
     "premium_prev": -0.79
   },
   {
+    "code": "162216",
+    "name": "宏利500增强LOF",
+    "price": 1.756,
+    "nav_prev": 1.7688,
+    "nav_estimated": 150.6123,
+    "index_name": "中证500指数",
+    "index_change": 8414.94,
+    "premium_estimated": -98.83,
+    "premium_prev": -0.72
+  },
+  {
     "code": "501037",
     "name": "中证500LOFC",
     "price": 1.585,
@@ -1716,6 +1738,17 @@
     "premium_prev": -0.2
   },
   {
+    "code": "161121",
+    "name": "银行LOF易方达",
+    "price": 1.545,
+    "nav_prev": 1.5401,
+    "nav_estimated": null,
+    "index_name": "中证银行指数收益率*95%+活期存款利率(税后)*5%",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": 0.32
+  },
+  {
     "code": "501200",
     "name": "科创加银LOF",
     "price": 1.38,
@@ -1956,6 +1989,17 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -1.14
+  },
+  {
+    "code": "501072",
+    "name": "标普红利增强LOF(退市)",
+    "price": 0.999,
+    "nav_prev": 1.0385,
+    "nav_estimated": null,
+    "index_name": "标普中国A股低波红利指数收益率*95%+人民币银行活期存款收",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": -3.8
   },
   {
     "code": "161029",
