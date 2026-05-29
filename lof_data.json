@@ -1620,12 +1620,12 @@
     "code": "501312",
     "name": "海外科技LOF",
     "price": 2.476,
-    "nav_prev": 2.3319,
+    "nav_prev": 2.3862,
     "nav_estimated": null,
     "index_name": "纳斯达克100指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 6.18
+    "premium_prev": 3.76
   },
   {
     "code": "501225",
@@ -1653,12 +1653,12 @@
     "code": "161133",
     "name": "优势回报FOF-LOF",
     "price": 1.8,
-    "nav_prev": 1.7876,
+    "nav_prev": 1.8305,
     "nav_estimated": null,
     "index_name": "中证800指数收益率*75%+中债新综合指数(财富)收益率*",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.69
+    "premium_prev": -1.67
   },
   {
     "code": "501209",
@@ -2324,12 +2324,12 @@
     "code": "161130",
     "name": "纳斯达克100LOF",
     "price": 4.725,
-    "nav_prev": 4.5353,
+    "nav_prev": 4.5685,
     "nav_estimated": null,
     "index_name": "纳斯达克100指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 4.18
+    "premium_prev": 3.43
   },
   {
     "code": "160643",
@@ -2566,12 +2566,12 @@
     "code": "161129",
     "name": "原油LOF易方达",
     "price": 1.774,
-    "nav_prev": 1.7151,
+    "nav_prev": 1.7208,
     "nav_estimated": null,
     "index_name": "标普高盛原油商品指数(S&P GSCI Crude Oil ",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 3.43
+    "premium_prev": 3.09
   },
   {
     "code": "161626",
@@ -2588,23 +2588,23 @@
     "code": "161127",
     "name": "标普生物科技LOF",
     "price": 1.812,
-    "nav_prev": 1.8118,
+    "nav_prev": 1.8301,
     "nav_estimated": null,
     "index_name": "标普生物科技精选行业指数收益率(使用估值汇率折算)*95%+",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.01
+    "premium_prev": -0.99
   },
   {
     "code": "161128",
     "name": "标普信息科技LOF",
     "price": 7.038,
-    "nav_prev": 6.6872,
+    "nav_prev": 6.7659,
     "nav_estimated": null,
     "index_name": "标普500指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 5.25
+    "premium_prev": 4.02
   },
   {
     "code": "160922",
@@ -2621,23 +2621,23 @@
     "code": "161125",
     "name": "标普500LOF",
     "price": 3.181,
-    "nav_prev": 3.1138,
+    "nav_prev": 3.1286,
     "nav_estimated": null,
     "index_name": "标普500指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 2.16
+    "premium_prev": 1.67
   },
   {
     "code": "161126",
     "name": "标普医疗保健LOF",
     "price": 1.851,
-    "nav_prev": 1.8084,
+    "nav_prev": 1.8351,
     "nav_estimated": null,
     "index_name": "标普500指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 2.36
+    "premium_prev": 0.87
   },
   {
     "code": "501300",
@@ -2830,12 +2830,12 @@
     "code": "162415",
     "name": "美国消费LOF",
     "price": 3.02,
-    "nav_prev": 2.999,
+    "nav_prev": 3.01,
     "nav_estimated": null,
     "index_name": "经人民币汇率调整的标普美国品质消费股票指数收益率*95%+人",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.7
+    "premium_prev": 0.33
   },
   {
     "code": "161033",
@@ -3820,12 +3820,12 @@
     "code": "165513",
     "name": "中信保诚商品LOF",
     "price": 1.063,
-    "nav_prev": 1.0589,
+    "nav_prev": 1.0679,
     "nav_estimated": null,
     "index_name": "中证CME中国商品消费指数(人民币)收益率",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.39
+    "premium_prev": -0.46
   },
   {
     "code": "161219",
@@ -3842,12 +3842,12 @@
     "code": "162411",
     "name": "华宝油气LOF",
     "price": 0.856,
-    "nav_prev": 0.8653,
+    "nav_prev": 0.8731,
     "nav_estimated": null,
     "index_name": "标普石油天然气上游股票指数(全收益指数)",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.07
+    "premium_prev": -1.96
   },
   {
     "code": "163208",
@@ -3908,12 +3908,12 @@
     "code": "160719",
     "name": "嘉实黄金LOF",
     "price": 2.013,
-    "nav_prev": 2.0,
+    "nav_prev": 2.017,
     "nav_estimated": null,
     "index_name": "伦敦金价格(汇率调整后)",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.65
+    "premium_prev": -0.2
   },
   {
     "code": "161217",
@@ -3952,12 +3952,12 @@
     "code": "161116",
     "name": "黄金主题LOF",
     "price": 1.678,
-    "nav_prev": 1.6599,
+    "nav_prev": 1.6749,
     "nav_estimated": null,
     "index_name": "以伦敦黄金市场下午定盘价计价的国际现货黄金(经汇率折算)*5",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 1.09
+    "premium_prev": 0.19
   },
   {
     "code": "161216",
