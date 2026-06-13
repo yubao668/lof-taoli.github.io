@@ -3322,28 +3322,6 @@
     "premium_prev": -0.61
   },
   {
-    "code": "160221",
-    "name": "有色金属LOF",
-    "price": 2.322,
-    "nav_prev": 2.3296,
-    "nav_estimated": null,
-    "index_name": "国证有色金属行业指数收益率*95%+银行活期存款利率(税后)",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.33
-  },
-  {
-    "code": "161028",
-    "name": "新能源车LOF",
-    "price": 1.17,
-    "nav_prev": 1.175,
-    "nav_estimated": null,
-    "index_name": "中证新能源汽车指数收益率*95%+银行人民币活期存款利率(税",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.43
-  },
-  {
     "code": "161027",
     "name": "证券LOF",
     "price": 0.991,
@@ -3608,28 +3586,6 @@
     "premium_prev": -0.17
   },
   {
-    "code": "163113",
-    "name": "申万证券LOF",
-    "price": 0.889,
-    "nav_prev": 0.8922,
-    "nav_estimated": null,
-    "index_name": "中证申万证券行业指数收益率*95%+银行同业存款利率*5%",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.36
-  },
-  {
-    "code": "164705",
-    "name": "恒生LOF",
-    "price": 1.103,
-    "nav_prev": 1.1108,
-    "nav_estimated": null,
-    "index_name": "恒生指数",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.7
-  },
-  {
     "code": "165521",
     "name": "金融LOF",
     "price": 1.227,
@@ -3870,17 +3826,6 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": 0.38
-  },
-  {
-    "code": "164606",
-    "name": "信用增利LOF",
-    "price": 1.228,
-    "nav_prev": 1.2328,
-    "nav_estimated": null,
-    "index_name": "中债综合指数",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.39
   },
   {
     "code": "164701",
