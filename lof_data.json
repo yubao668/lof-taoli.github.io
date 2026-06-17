@@ -37,10 +37,10 @@
     "name": "申万菱信中证环保产业指数(LOF)-A",
     "price": 1.394,
     "nav_prev": 1.4035,
-    "nav_estimated": 29.0469,
+    "nav_estimated": 28.8466,
     "index_name": "中证环保指数",
-    "index_change": 1969.6,
-    "premium_estimated": -95.2,
+    "index_change": 1955.33,
+    "premium_estimated": -95.17,
     "premium_prev": -0.68
   },
   {
@@ -770,17 +770,6 @@
     "premium_prev": -0.14
   },
   {
-    "code": "163407",
-    "name": "兴全沪深300指数增强(LOF)-A",
-    "price": 2.63,
-    "nav_prev": 2.6348,
-    "nav_estimated": 130.6782,
-    "index_name": "沪深300指数",
-    "index_change": 4859.7,
-    "premium_estimated": -97.99,
-    "premium_prev": -0.18
-  },
-  {
     "code": "160615",
     "name": "鹏华沪深300ETF联接(LOF)-A",
     "price": 1.467,
@@ -812,17 +801,6 @@
     "index_change": 4859.7,
     "premium_estimated": -97.99,
     "premium_prev": -0.48
-  },
-  {
-    "code": "160607",
-    "name": "鹏华价值优势混合(LOF)",
-    "price": 0.956,
-    "nav_prev": 0.958,
-    "nav_estimated": 47.5139,
-    "index_name": "沪深300指数",
-    "index_change": 4859.7,
-    "premium_estimated": -97.99,
-    "premium_prev": -0.21
   },
   {
     "code": "162207",
@@ -1599,11 +1577,22 @@
     "name": "富国中证医药主题指数增强(LOF)-A",
     "price": 1.132,
     "nav_prev": 1.124,
-    "nav_estimated": 79.1687,
+    "nav_estimated": 78.8927,
     "index_name": "中证医药指数",
-    "index_change": 6943.48,
+    "index_change": 6918.92,
     "premium_estimated": -98.57,
     "premium_prev": 0.71
+  },
+  {
+    "code": "163001",
+    "name": "长信医疗保健行业灵活配置混合(LOF)-A",
+    "price": 1.219,
+    "nav_prev": 1.225,
+    "nav_estimated": 85.9818,
+    "index_name": "中证医药指数",
+    "index_change": 6918.92,
+    "premium_estimated": -98.58,
+    "premium_prev": -0.49
   },
   {
     "code": "160809",
@@ -1621,22 +1610,11 @@
     "name": "鹏华中证医药卫生指数(LOF)-A",
     "price": 0.785,
     "nav_prev": 0.7913,
-    "nav_estimated": 55.735,
+    "nav_estimated": 55.5407,
     "index_name": "中证医药指数",
-    "index_change": 6943.48,
+    "index_change": 6918.92,
     "premium_estimated": -98.59,
     "premium_prev": -0.8
-  },
-  {
-    "code": "163001",
-    "name": "长信医疗保健行业灵活配置混合(LOF)-A",
-    "price": 1.219,
-    "nav_prev": 1.225,
-    "nav_estimated": 86.2826,
-    "index_name": "中证医药指数",
-    "index_change": 6943.48,
-    "premium_estimated": -98.59,
-    "premium_prev": -0.49
   },
   {
     "code": "501003",
@@ -1753,9 +1731,9 @@
     "name": "华宝中证消费龙头ETF联接(LOF)-A",
     "price": 1.045,
     "nav_prev": 1.0475,
-    "nav_estimated": 127.7211,
+    "nav_estimated": 127.1566,
     "index_name": "中证消费指数",
-    "index_change": 12092.95,
+    "index_change": 12039.05,
     "premium_estimated": -99.18,
     "premium_prev": -0.24
   },
@@ -4576,6 +4554,17 @@
     "premium_prev": -0.06
   },
   {
+    "code": "163407",
+    "name": "兴全沪深300指数增强(LOF)-A",
+    "price": 2.63,
+    "nav_prev": 2.6348,
+    "nav_estimated": null,
+    "index_name": "沪深300指数",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": -0.18
+  },
+  {
     "code": "160915",
     "name": "大成景丰债券(LOF)",
     "price": 0.989,
@@ -4750,6 +4739,17 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": 0.3
+  },
+  {
+    "code": "160607",
+    "name": "鹏华价值优势混合(LOF)",
+    "price": 0.956,
+    "nav_prev": 0.958,
+    "nav_estimated": null,
+    "index_name": "沪深300指数",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": -0.21
   },
   {
     "code": "163503",
