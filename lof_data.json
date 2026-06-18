@@ -37,10 +37,10 @@
     "name": "申万菱信中证环保产业指数(LOF)-A",
     "price": 1.382,
     "nav_prev": 1.3988,
-    "nav_estimated": 28.775,
+    "nav_estimated": 28.5034,
     "index_name": "中证环保指数",
-    "index_change": 1957.12,
-    "premium_estimated": -95.2,
+    "index_change": 1937.7,
+    "premium_estimated": -95.15,
     "premium_prev": -1.2
   },
   {
@@ -1753,10 +1753,10 @@
     "name": "华宝中证消费龙头ETF联接(LOF)-A",
     "price": 1.037,
     "nav_prev": 1.0387,
-    "nav_estimated": 124.8215,
+    "nav_estimated": 123.8433,
     "index_name": "中证消费指数",
-    "index_change": 11917.08,
-    "premium_estimated": -99.17,
+    "index_change": 11822.92,
+    "premium_estimated": -99.16,
     "premium_prev": -0.16
   },
   {
