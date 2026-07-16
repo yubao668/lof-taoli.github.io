@@ -37,10 +37,10 @@
     "name": "申万菱信中证环保产业指数(LOF)-A",
     "price": 1.22,
     "nav_prev": 1.2178,
-    "nav_estimated": 21.5262,
+    "nav_estimated": 21.4773,
     "index_name": "中证环保指数",
-    "index_change": 1667.63,
-    "premium_estimated": -94.33,
+    "index_change": 1663.62,
+    "premium_estimated": -94.32,
     "premium_prev": 0.18
   },
   {
@@ -55,36 +55,36 @@
     "premium_prev": 106.0
   },
   {
-    "code": "502048",
-    "name": "易方达上证50指数(LOF)-A",
-    "price": 1.269,
-    "nav_prev": 1.2692,
-    "nav_estimated": 38.3495,
-    "index_name": "上证50指数",
-    "index_change": 2921.55,
-    "premium_estimated": -96.69,
-    "premium_prev": -0.02
-  },
-  {
     "code": "502020",
     "name": "国金上证50指数增强(LOF)",
     "price": 0.99,
     "nav_prev": 0.9888,
-    "nav_estimated": 29.8771,
+    "nav_estimated": 29.7607,
     "index_name": "上证50指数",
-    "index_change": 2921.55,
-    "premium_estimated": -96.69,
+    "index_change": 2909.78,
+    "premium_estimated": -96.67,
     "premium_prev": 0.12
+  },
+  {
+    "code": "502048",
+    "name": "易方达上证50指数(LOF)-A",
+    "price": 1.269,
+    "nav_prev": 1.2692,
+    "nav_estimated": 38.2001,
+    "index_name": "上证50指数",
+    "index_change": 2909.78,
+    "premium_estimated": -96.68,
+    "premium_prev": -0.02
   },
   {
     "code": "501050",
     "name": "华夏沪港通上证50AH优选指数(LOF)-A",
     "price": 1.733,
     "nav_prev": 1.742,
-    "nav_estimated": 52.6354,
+    "nav_estimated": 52.4235,
     "index_name": "上证50指数",
-    "index_change": 2921.55,
-    "premium_estimated": -96.71,
+    "index_change": 2909.39,
+    "premium_estimated": -96.69,
     "premium_prev": -0.52
   },
   {
@@ -92,10 +92,10 @@
     "name": "长盛上证50指数(LOF)",
     "price": 0.928,
     "nav_prev": 0.937,
-    "nav_estimated": 28.3119,
+    "nav_estimated": 28.2016,
     "index_name": "上证50指数",
-    "index_change": 2921.55,
-    "premium_estimated": -96.72,
+    "index_change": 2909.78,
+    "premium_estimated": -96.71,
     "premium_prev": -0.96
   },
   {
