@@ -4799,12 +4799,12 @@
     "code": "163503",
     "name": "天治核心成长混合(LOF)",
     "price": 0.438,
-    "nav_prev": 0.4361,
+    "nav_prev": 0.4224,
     "nav_estimated": null,
     "index_name": "富时中国A股自由流通全盘指数×75%+富时中国国债指数×25",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.44
+    "premium_prev": 3.69
   },
   {
     "code": "160106",
