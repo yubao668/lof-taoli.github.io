@@ -220,17 +220,6 @@
     "premium_prev": 2.66
   },
   {
-    "code": "501188",
-    "name": "汇添富核心精选灵活配置混合(LOF)",
-    "price": 1.008,
-    "nav_prev": 0.9847,
-    "nav_estimated": 46.1647,
-    "index_name": "沪深300指数",
-    "index_change": 4588.2,
-    "premium_estimated": -97.82,
-    "premium_prev": 2.37
-  },
-  {
     "code": "169201",
     "name": "浙商汇金鼎盈事件驱动灵活配置混合(LOF)",
     "price": 1.797,
@@ -812,17 +801,6 @@
     "index_change": 4588.2,
     "premium_estimated": -97.87,
     "premium_prev": -0.11
-  },
-  {
-    "code": "160324",
-    "name": "华夏磐晟灵活配置混合(LOF)",
-    "price": 2.82,
-    "nav_prev": 2.8187,
-    "nav_estimated": 132.1462,
-    "index_name": "沪深300指数",
-    "index_change": 4588.2,
-    "premium_estimated": -97.87,
-    "premium_prev": 0.05
   },
   {
     "code": "167003",
@@ -2673,6 +2651,17 @@
     "premium_prev": -0.35
   },
   {
+    "code": "160324",
+    "name": "华夏磐晟灵活配置混合(LOF)",
+    "price": 2.82,
+    "nav_prev": 2.8187,
+    "nav_estimated": null,
+    "index_name": "沪深300指数",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": 0.05
+  },
+  {
     "code": "501067",
     "name": "招商富时中国A-H50指数(LOF)-A",
     "price": 1.21,
@@ -2748,6 +2737,17 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.67
+  },
+  {
+    "code": "501188",
+    "name": "汇添富核心精选灵活配置混合(LOF)",
+    "price": 1.008,
+    "nav_prev": 0.9847,
+    "nav_estimated": null,
+    "index_name": "沪深300指数",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": 2.37
   },
   {
     "code": "164824",
