@@ -198,17 +198,6 @@
     "premium_prev": 2.53
   },
   {
-    "code": "160610",
-    "name": "鹏华动力增长混合(LOF)",
-    "price": 1.201,
-    "nav_prev": 1.174,
-    "nav_estimated": 54.3466,
-    "index_name": "沪深300指数",
-    "index_change": 4529.19,
-    "premium_estimated": -97.79,
-    "premium_prev": 2.3
-  },
-  {
     "code": "163302",
     "name": "大摩资源优选混合(LOF)",
     "price": 1.089,
@@ -1776,7 +1765,7 @@
     "price": 105.0,
     "nav_prev": 104.3045,
     "nav_estimated": null,
-    "index_name": "中债总指数收益率×100%",
+    "index_name": "中债-综合财富(1-3年)指数收益率×83%+中证800指数",
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": 0.67
@@ -3569,7 +3558,7 @@
     "price": 1.145,
     "nav_prev": 1.1474,
     "nav_estimated": null,
-    "index_name": "中债-总指数×100%",
+    "index_name": "中债-综合财富(1-3年)指数收益率×85%+中证可转债及可",
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.21
@@ -4794,6 +4783,17 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": 0.12
+  },
+  {
+    "code": "160610",
+    "name": "鹏华动力增长混合(LOF)",
+    "price": 1.201,
+    "nav_prev": 1.174,
+    "nav_estimated": null,
+    "index_name": "中证A500指数收益率×75%+中债-综合财富(总值)指数收",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": 2.3
   },
   {
     "code": "163503",
