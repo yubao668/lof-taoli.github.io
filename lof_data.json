@@ -1331,6 +1331,17 @@
     "premium_prev": -0.64
   },
   {
+    "code": "150078",
+    "name": "金鹰持久增利债券(LOF)-B",
+    "price": 1.404,
+    "nav_prev": 1.4134,
+    "nav_estimated": 65.7973,
+    "index_name": "沪深300指数",
+    "index_change": 4555.25,
+    "premium_estimated": -97.87,
+    "premium_prev": -0.67
+  },
+  {
     "code": "160910",
     "name": "大成创新成长混合(LOF)-A",
     "price": 0.945,
@@ -4134,17 +4145,6 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": 0.07
-  },
-  {
-    "code": "150078",
-    "name": "金鹰持久增利债券(LOF)-B",
-    "price": 1.404,
-    "nav_prev": 1.4134,
-    "nav_estimated": null,
-    "index_name": "沪深300指数",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.67
   },
   {
     "code": "161614",
