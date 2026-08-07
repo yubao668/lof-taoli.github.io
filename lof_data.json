@@ -1639,6 +1639,17 @@
     "premium_prev": -0.49
   },
   {
+    "code": "160211",
+    "name": "国泰中小盘成长混合(LOF)",
+    "price": 2.696,
+    "nav_prev": 2.69,
+    "nav_estimated": 211.5289,
+    "index_name": "中证500指数",
+    "index_change": 7763.53,
+    "premium_estimated": -98.73,
+    "premium_prev": 0.22
+  },
+  {
     "code": "501219",
     "name": "华夏智胜先锋股票(LOF)-A",
     "price": 1.638,
@@ -2414,7 +2425,7 @@
     "price": 1.591,
     "nav_prev": 1.6182,
     "nav_estimated": null,
-    "index_name": "恒生指数",
+    "index_name": "中国战略新兴产业成份指数收益率×80%+中证港股通科技指数(",
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -1.68
@@ -2520,7 +2531,7 @@
   },
   {
     "code": "501083",
-    "name": "银华科创主题灵活配置混合(LOF)",
+    "name": "银华科创主题灵活配置混合(LOF)-A",
     "price": 2.086,
     "nav_prev": 2.0633,
     "nav_estimated": null,
@@ -4739,17 +4750,6 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.06
-  },
-  {
-    "code": "160211",
-    "name": "国泰中小盘成长混合(LOF)",
-    "price": 2.696,
-    "nav_prev": 2.69,
-    "nav_estimated": null,
-    "index_name": "中证全债指数×20%+天相中盘成长指数×35%+天相小盘成长",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": 0.22
   },
   {
     "code": "160119",
