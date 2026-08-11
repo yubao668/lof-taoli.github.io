@@ -59,10 +59,10 @@
     "name": "国金上证50指数增强(LOF)",
     "price": 0.99,
     "nav_prev": 0.9888,
-    "nav_estimated": 30.1741,
+    "nav_estimated": 30.0646,
     "index_name": "上证50指数",
-    "index_change": 2951.59,
-    "premium_estimated": -96.72,
+    "index_change": 2940.51,
+    "premium_estimated": -96.71,
     "premium_prev": 0.12
   },
   {
@@ -70,10 +70,10 @@
     "name": "易方达上证50指数(LOF)-A",
     "price": 1.268,
     "nav_prev": 1.2796,
-    "nav_estimated": 39.0481,
+    "nav_estimated": 38.9064,
     "index_name": "上证50指数",
-    "index_change": 2951.59,
-    "premium_estimated": -96.75,
+    "index_change": 2940.51,
+    "premium_estimated": -96.74,
     "premium_prev": -0.91
   },
   {
@@ -81,10 +81,10 @@
     "name": "长盛上证50指数(LOF)",
     "price": 0.928,
     "nav_prev": 0.937,
-    "nav_estimated": 28.5934,
+    "nav_estimated": 28.4896,
     "index_name": "上证50指数",
-    "index_change": 2951.59,
-    "premium_estimated": -96.75,
+    "index_change": 2940.51,
+    "premium_estimated": -96.74,
     "premium_prev": -0.96
   },
   {
@@ -92,10 +92,10 @@
     "name": "华夏沪港通上证50AH优选指数(LOF)-A",
     "price": 1.751,
     "nav_prev": 1.772,
-    "nav_estimated": 54.0585,
+    "nav_estimated": 53.8639,
     "index_name": "上证50指数",
-    "index_change": 2950.71,
-    "premium_estimated": -96.76,
+    "index_change": 2939.72,
+    "premium_estimated": -96.75,
     "premium_prev": -1.19
   },
   {
