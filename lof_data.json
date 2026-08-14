@@ -506,6 +506,17 @@
     "premium_prev": -0.16
   },
   {
+    "code": "501211",
+    "name": "民生加银优享6个月定开混合(FOF-LOF)",
+    "price": 1.074,
+    "nav_prev": 1.0812,
+    "nav_estimated": 51.2178,
+    "index_name": "沪深300指数",
+    "index_change": 4637.13,
+    "premium_estimated": -97.9,
+    "premium_prev": -0.67
+  },
+  {
     "code": "161811",
     "name": "银华沪深300指数(LOF)-A",
     "price": 1.07,
@@ -955,17 +966,6 @@
     "index_change": 4637.13,
     "premium_estimated": -97.91,
     "premium_prev": -1.07
-  },
-  {
-    "code": "501211",
-    "name": "民生加银优享6个月定开混合(FOF-LOF)",
-    "price": 1.074,
-    "nav_prev": 1.0832,
-    "nav_estimated": 51.3126,
-    "index_name": "沪深300指数",
-    "index_change": 4637.13,
-    "premium_estimated": -97.91,
-    "premium_prev": -0.85
   },
   {
     "code": "165515",
@@ -1774,12 +1774,12 @@
     "code": "160641",
     "name": "鹏华丰锐债券(LOF)",
     "price": 105.865,
-    "nav_prev": 106.1745,
+    "nav_prev": 106.3742,
     "nav_estimated": null,
     "index_name": "中债-综合财富(1-3年)指数收益率×83%+中证800指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.29
+    "premium_prev": -0.48
   },
   {
     "code": "501312",
@@ -1862,12 +1862,12 @@
     "code": "501215",
     "name": "兴全积极配置混合(FOF-LOF)-A",
     "price": 1.099,
-    "nav_prev": 1.1084,
+    "nav_prev": 1.116,
     "nav_estimated": null,
     "index_name": "中证偏股型基金指数收益率×70%+MSCI世界指数(MSCI",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.85
+    "premium_prev": -1.52
   },
   {
     "code": "501210",
@@ -1972,56 +1972,56 @@
     "code": "160620",
     "name": "鹏华中证A股资源产业指数(LOF)-A",
     "price": 2.859,
-    "nav_prev": 2.8271,
+    "nav_prev": 2.8741,
     "nav_estimated": null,
     "index_name": "中证A股资源产业指数收益率×95%+银行活期存款利率(税后)",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 1.13
+    "premium_prev": -0.53
   },
   {
     "code": "160625",
     "name": "鹏华中证800证券保险指数(LOF)-A",
     "price": 0.838,
-    "nav_prev": 0.8447,
+    "nav_prev": 0.8328,
     "nav_estimated": null,
     "index_name": "中证800证券保险指数收益率×95%+商业银行活期存款利率(",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.79
+    "premium_prev": 0.62
   },
   {
     "code": "160626",
     "name": "鹏华中证信息技术指数(LOF)-A",
     "price": 1.675,
-    "nav_prev": 1.6806,
+    "nav_prev": 1.6895,
     "nav_estimated": null,
     "index_name": "中证信息技术指数收益率×95%+商业银行活期存款利率(税后)",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.33
+    "premium_prev": -0.86
   },
   {
     "code": "160628",
     "name": "鹏华中证800地产指数(LOF)-A",
     "price": 0.493,
-    "nav_prev": 0.4974,
+    "nav_prev": 0.4909,
     "nav_estimated": null,
     "index_name": "中证800地产指数收益率×95%+商业银行活期存款利率(税后",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.88
+    "premium_prev": 0.43
   },
   {
     "code": "160629",
     "name": "鹏华中证传媒指数(LOF)-A",
     "price": 1.085,
-    "nav_prev": 1.0885,
+    "nav_prev": 1.0889,
     "nav_estimated": null,
     "index_name": "中证传媒指数收益率×95%+商业银行活期存款利率(税后)×5",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.32
+    "premium_prev": -0.36
   },
   {
     "code": "160630",
@@ -2038,45 +2038,45 @@
     "code": "160631",
     "name": "鹏华中证银行指数(LOF)-A",
     "price": 1.343,
-    "nav_prev": 1.3551,
+    "nav_prev": 1.3483,
     "nav_estimated": null,
     "index_name": "中证银行指数收益率×95%+商业银行活期存款利率(税后)×5",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.89
+    "premium_prev": -0.39
   },
   {
     "code": "160632",
     "name": "鹏华中证酒指数(LOF)-A",
     "price": 0.275,
-    "nav_prev": 0.2811,
+    "nav_prev": 0.2765,
     "nav_estimated": null,
     "index_name": "中证酒指数收益率×95%+商业银行活期存款利率(税后)×5%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -2.17
+    "premium_prev": -0.54
   },
   {
     "code": "160633",
     "name": "鹏华中证全指证券公司指数(LOF)-A",
     "price": 1.07,
-    "nav_prev": 1.0847,
+    "nav_prev": 1.0707,
     "nav_estimated": null,
     "index_name": "中证全指证券公司指数收益率×95%+商业银行活期存款利率(税",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.36
+    "premium_prev": -0.07
   },
   {
     "code": "502053",
     "name": "长盛中证全指证券公司指数(LOF)-A",
     "price": 1.081,
-    "nav_prev": 1.0971,
+    "nav_prev": 1.0831,
     "nav_estimated": null,
     "index_name": "中证全指证券公司指数收益率×95%+银行活期存款利率(税后)",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.47
+    "premium_prev": -0.19
   },
   {
     "code": "160638",
@@ -2093,12 +2093,12 @@
     "code": "160639",
     "name": "鹏华中证高铁产业指数(LOF)-A",
     "price": 0.831,
-    "nav_prev": 0.8405,
+    "nav_prev": 0.8371,
     "nav_estimated": null,
     "index_name": "中证高铁产业指数收益率×95%+商业银行活期存款利率(税后)",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.13
+    "premium_prev": -0.73
   },
   {
     "code": "163115",
@@ -2225,12 +2225,12 @@
     "code": "502013",
     "name": "长盛中证申万一带一路主题指数(LOF)",
     "price": 1.429,
-    "nav_prev": 1.4427,
+    "nav_prev": 1.4422,
     "nav_estimated": null,
     "index_name": "中证申万一带一路主题指数收益率×95%+银行活期存款利率(税",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.95
+    "premium_prev": -0.92
   },
   {
     "code": "502023",
@@ -2247,12 +2247,12 @@
     "code": "162509",
     "name": "国联安中证A100指数(LOF)",
     "price": 1.009,
-    "nav_prev": 1.0126,
+    "nav_prev": 1.0127,
     "nav_estimated": null,
     "index_name": "中证A100指数收益率×95%+活期存款利率(税后)×5%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.36
+    "premium_prev": -0.37
   },
   {
     "code": "161122",
