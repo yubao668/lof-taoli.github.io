@@ -1166,17 +1166,6 @@
     "premium_prev": -1.63
   },
   {
-    "code": "160722",
-    "name": "嘉实惠泽灵活配置混合(LOF)",
-    "price": 2.299,
-    "nav_prev": 2.3328,
-    "nav_estimated": 111.1046,
-    "index_name": "沪深300指数",
-    "index_change": 4662.72,
-    "premium_estimated": -97.93,
-    "premium_prev": -1.45
-  },
-  {
     "code": "501051",
     "name": "圆信永丰汇利混合(LOF)",
     "price": 2.142,
@@ -2792,6 +2781,17 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.23
+  },
+  {
+    "code": "160722",
+    "name": "嘉实惠泽灵活配置混合(LOF)",
+    "price": 2.299,
+    "nav_prev": 2.3328,
+    "nav_estimated": null,
+    "index_name": "沪深300指数",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": -1.45
   },
   {
     "code": "162416",
