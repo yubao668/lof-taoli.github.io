@@ -946,17 +946,6 @@
     "premium_prev": -1.09
   },
   {
-    "code": "166006",
-    "name": "中欧行业成长混合(LOF)-A",
-    "price": 2.459,
-    "nav_prev": 2.4858,
-    "nav_estimated": 119.0083,
-    "index_name": "沪深300指数",
-    "index_change": 4687.53,
-    "premium_estimated": -97.93,
-    "premium_prev": -1.08
-  },
-  {
     "code": "160919",
     "name": "大成产业升级股票(LOF)-A",
     "price": 3.752,
@@ -3793,6 +3782,17 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -1.51
+  },
+  {
+    "code": "166006",
+    "name": "中欧行业成长混合(LOF)-A",
+    "price": 2.459,
+    "nav_prev": 2.4858,
+    "nav_estimated": null,
+    "index_name": "中证800指数收益率×90%+中债-综合全价(总值)指数收益",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": -1.08
   },
   {
     "code": "163827",
