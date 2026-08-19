@@ -154,17 +154,6 @@
     "premium_prev": 1.85
   },
   {
-    "code": "161232",
-    "name": "国投瑞银瑞盛灵活配置混合(LOF)-A",
-    "price": 1.36,
-    "nav_prev": 1.3024,
-    "nav_estimated": 60.7969,
-    "index_name": "沪深300指数",
-    "index_change": 4568.07,
-    "premium_estimated": -97.76,
-    "premium_prev": 4.42
-  },
-  {
     "code": "160518",
     "name": "博时睿远事件驱动灵活配置混合(LOF)",
     "price": 2.707,
@@ -1265,17 +1254,6 @@
     "premium_prev": -2.02
   },
   {
-    "code": "501017",
-    "name": "国泰融丰外延增长灵活配置混合(LOF)-A",
-    "price": 1.357,
-    "nav_prev": 1.3842,
-    "nav_estimated": 64.6154,
-    "index_name": "沪深300指数",
-    "index_change": 4568.07,
-    "premium_estimated": -97.9,
-    "premium_prev": -1.97
-  },
-  {
     "code": "162105",
     "name": "金鹰持久增利债券(LOF)-C",
     "price": 1.461,
@@ -1527,17 +1505,6 @@
     "index_change": 4568.07,
     "premium_estimated": -97.99,
     "premium_prev": -6.35
-  },
-  {
-    "code": "165528",
-    "name": "中信保诚鼎利灵活配置混合(LOF)-A",
-    "price": 2.607,
-    "nav_prev": 2.7885,
-    "nav_estimated": 130.169,
-    "index_name": "沪深300指数",
-    "index_change": 4568.07,
-    "premium_estimated": -98.0,
-    "premium_prev": -6.51
   },
   {
     "code": "501076",
@@ -2836,17 +2803,6 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.91
-  },
-  {
-    "code": "501305",
-    "name": "汇添富中证港股通高股息投资ETF联接(LOF)-A",
-    "price": 1.301,
-    "nav_prev": 1.3043,
-    "nav_estimated": null,
-    "index_name": "中证港股通高股息投资指数收益率(经估值汇率调整后)×95%+",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.25
   },
   {
     "code": "501306",
