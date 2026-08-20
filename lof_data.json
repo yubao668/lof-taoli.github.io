@@ -737,17 +737,6 @@
     "premium_prev": -0.48
   },
   {
-    "code": "160722",
-    "name": "嘉实惠泽灵活配置混合(LOF)",
-    "price": 2.24,
-    "nav_prev": 2.2569,
-    "nav_estimated": 105.3798,
-    "index_name": "沪深300指数",
-    "index_change": 4569.23,
-    "premium_estimated": -97.87,
-    "premium_prev": -0.75
-  },
-  {
     "code": "160522",
     "name": "博时睿益事件驱动灵活配置混合(LOF)",
     "price": 1.515,
@@ -2770,6 +2759,17 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.02
+  },
+  {
+    "code": "160722",
+    "name": "嘉实惠泽灵活配置混合(LOF)",
+    "price": 2.24,
+    "nav_prev": 2.2569,
+    "nav_estimated": null,
+    "index_name": "中证800指数收益率×90%+中债-综合财富(总值)指数收益",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": -0.75
   },
   {
     "code": "162416",
