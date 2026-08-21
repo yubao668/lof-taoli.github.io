@@ -3,12 +3,12 @@
     "code": "161907",
     "name": "万家中证红利指数(LOF)-A",
     "price": 1.647,
-    "nav_prev": 1.5428,
-    "nav_estimated": 1.5428,
+    "nav_prev": 1.5416,
+    "nav_estimated": 1.5416,
     "index_name": "中证红利指数",
     "index_change": 0.0,
-    "premium_estimated": 6.75,
-    "premium_prev": 6.75
+    "premium_estimated": 6.84,
+    "premium_prev": 6.84
   },
   {
     "code": "160716",
@@ -25,12 +25,12 @@
     "code": "501227",
     "name": "泓德红利优选混合(LOF)-A",
     "price": 1.08,
-    "nav_prev": 1.0893,
-    "nav_estimated": 1.0893,
+    "nav_prev": 1.0861,
+    "nav_estimated": 1.0861,
     "index_name": "中证红利指数",
     "index_change": 0.0,
-    "premium_estimated": -0.85,
-    "premium_prev": -0.85
+    "premium_estimated": -0.56,
+    "premium_prev": -0.56
   },
   {
     "code": "163114",
@@ -55,17 +55,6 @@
     "premium_prev": 106.0
   },
   {
-    "code": "502048",
-    "name": "易方达上证50指数(LOF)-A",
-    "price": 1.25,
-    "nav_prev": 1.2485,
-    "nav_estimated": 37.1071,
-    "index_name": "上证50指数",
-    "index_change": 2872.13,
-    "premium_estimated": -96.63,
-    "premium_prev": 0.12
-  },
-  {
     "code": "502020",
     "name": "国金上证50指数增强(LOF)",
     "price": 0.99,
@@ -77,15 +66,15 @@
     "premium_prev": 0.12
   },
   {
-    "code": "501050",
-    "name": "华夏沪港通上证50AH优选指数(LOF)-A",
-    "price": 1.726,
-    "nav_prev": 1.729,
-    "nav_estimated": 51.3882,
+    "code": "502048",
+    "name": "易方达上证50指数(LOF)-A",
+    "price": 1.25,
+    "nav_prev": 1.2505,
+    "nav_estimated": 37.1665,
     "index_name": "上证50指数",
     "index_change": 2872.13,
     "premium_estimated": -96.64,
-    "premium_prev": -0.17
+    "premium_prev": -0.04
   },
   {
     "code": "502040",
@@ -97,6 +86,17 @@
     "index_change": 2872.13,
     "premium_estimated": -96.67,
     "premium_prev": -0.96
+  },
+  {
+    "code": "501050",
+    "name": "华夏沪港通上证50AH优选指数(LOF)-A",
+    "price": 1.726,
+    "nav_prev": 1.742,
+    "nav_estimated": 51.7746,
+    "index_name": "上证50指数",
+    "index_change": 2872.13,
+    "premium_estimated": -96.67,
+    "premium_prev": -0.92
   },
   {
     "code": "160223",
@@ -157,34 +157,12 @@
     "code": "161232",
     "name": "国投瑞银瑞盛灵活配置混合(LOF)-A",
     "price": 1.343,
-    "nav_prev": 1.3056,
-    "nav_estimated": 61.0924,
+    "nav_prev": 1.3018,
+    "nav_estimated": 60.9146,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.8,
-    "premium_prev": 2.86
-  },
-  {
-    "code": "161039",
-    "name": "富国中证1000指数增强(LOF)-A",
-    "price": 2.629,
-    "nav_prev": 2.6306,
-    "nav_estimated": 120.1032,
-    "index_name": "中证100指数",
-    "index_change": 4465.62,
-    "premium_estimated": -97.81,
-    "premium_prev": -0.06
-  },
-  {
-    "code": "166011",
-    "name": "中欧盛世成长混合(LOF)-A",
-    "price": 1.771,
-    "nav_prev": 1.729,
-    "nav_estimated": 80.9044,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.81,
-    "premium_prev": 2.43
+    "premium_prev": 3.16
   },
   {
     "code": "161810",
@@ -209,26 +187,15 @@
     "premium_prev": 1.85
   },
   {
-    "code": "160813",
-    "name": "长盛同盛成长优选灵活配置混合(LOF)",
-    "price": 1.893,
-    "nav_prev": 1.858,
-    "nav_estimated": 86.9407,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
+    "code": "161039",
+    "name": "富国中证1000指数增强(LOF)-A",
+    "price": 2.629,
+    "nav_prev": 2.6459,
+    "nav_estimated": 120.8017,
+    "index_name": "中证100指数",
+    "index_change": 4465.62,
     "premium_estimated": -97.82,
-    "premium_prev": 1.88
-  },
-  {
-    "code": "160512",
-    "name": "博时卓越品牌混合(LOF)-A",
-    "price": 2.97,
-    "nav_prev": 2.917,
-    "nav_estimated": 136.494,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.82,
-    "premium_prev": 1.82
+    "premium_prev": -0.64
   },
   {
     "code": "160607",
@@ -240,83 +207,6 @@
     "index_change": 4579.26,
     "premium_estimated": -97.82,
     "premium_prev": 1.85
-  },
-  {
-    "code": "501188",
-    "name": "汇添富核心精选灵活配置混合(LOF)",
-    "price": 1.074,
-    "nav_prev": 1.0578,
-    "nav_estimated": 49.4972,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.83,
-    "premium_prev": 1.53
-  },
-  {
-    "code": "501026",
-    "name": "财通多策略福享混合(LOF)-A",
-    "price": 2.509,
-    "nav_prev": 2.4659,
-    "nav_estimated": 115.3859,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.83,
-    "premium_prev": 1.75
-  },
-  {
-    "code": "169101",
-    "name": "东方红睿丰灵活配置混合(LOF)",
-    "price": 2.077,
-    "nav_prev": 2.044,
-    "nav_estimated": 95.6441,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.83,
-    "premium_prev": 1.61
-  },
-  {
-    "code": "160807",
-    "name": "长盛沪深300指数(LOF)-A",
-    "price": 1.897,
-    "nav_prev": 1.867,
-    "nav_estimated": 87.3618,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.83,
-    "premium_prev": 1.61
-  },
-  {
-    "code": "161610",
-    "name": "融通领先成长混合(LOF)-A",
-    "price": 1.837,
-    "nav_prev": 1.81,
-    "nav_estimated": 84.6946,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.83,
-    "premium_prev": 1.49
-  },
-  {
-    "code": "166023",
-    "name": "中欧瑞丰灵活配置混合(LOF)-A",
-    "price": 1.33,
-    "nav_prev": 1.3163,
-    "nav_estimated": 61.5931,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.84,
-    "premium_prev": 1.04
-  },
-  {
-    "code": "501032",
-    "name": "财通福盛多策略混合(LOF)-A",
-    "price": 1.76,
-    "nav_prev": 1.7421,
-    "nav_estimated": 81.5174,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.84,
-    "premium_prev": 1.03
   },
   {
     "code": "501040",
@@ -352,48 +242,26 @@
     "premium_prev": 0.88
   },
   {
-    "code": "167002",
-    "name": "平安鼎越灵活配置混合(LOF)-A",
-    "price": 5.402,
-    "nav_prev": 5.3369,
-    "nav_estimated": 249.7275,
+    "code": "160813",
+    "name": "长盛同盛成长优选灵活配置混合(LOF)",
+    "price": 1.893,
+    "nav_prev": 1.87,
+    "nav_estimated": 87.5022,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.84,
-    "premium_prev": 1.22
-  },
-  {
-    "code": "501051",
-    "name": "圆信永丰汇利混合(LOF)",
-    "price": 2.159,
-    "nav_prev": 2.1392,
-    "nav_estimated": 100.0987,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.84,
-    "premium_prev": 0.93
-  },
-  {
-    "code": "501015",
-    "name": "财通多策略升级混合(LOF)-A",
-    "price": 3.073,
-    "nav_prev": 3.044,
-    "nav_estimated": 142.4367,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.84,
-    "premium_prev": 0.95
+    "premium_prev": 1.23
   },
   {
     "code": "163821",
     "name": "中银沪深300等权重指数(LOF)",
     "price": 2.073,
-    "nav_prev": 2.0543,
-    "nav_estimated": 96.1261,
+    "nav_prev": 2.0551,
+    "nav_estimated": 96.1635,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.84,
-    "premium_prev": 0.91
+    "premium_prev": 0.87
   },
   {
     "code": "165516",
@@ -407,15 +275,15 @@
     "premium_prev": 1.05
   },
   {
-    "code": "162006",
-    "name": "长城久富核心成长混合(LOF)-A",
-    "price": 1.799,
-    "nav_prev": 1.7774,
-    "nav_estimated": 83.1692,
+    "code": "160807",
+    "name": "长盛沪深300指数(LOF)-A",
+    "price": 1.897,
+    "nav_prev": 1.8789,
+    "nav_estimated": 87.9186,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.84,
-    "premium_prev": 1.22
+    "premium_prev": 0.96
   },
   {
     "code": "501091",
@@ -427,17 +295,6 @@
     "index_change": 4579.26,
     "premium_estimated": -97.85,
     "premium_prev": 0.57
-  },
-  {
-    "code": "169104",
-    "name": "东方红睿满沪港深灵活配置混合(LOF)-A",
-    "price": 2.901,
-    "nav_prev": 2.887,
-    "nav_estimated": 135.0903,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.85,
-    "premium_prev": 0.48
   },
   {
     "code": "168401",
@@ -462,6 +319,39 @@
     "premium_prev": 0.45
   },
   {
+    "code": "161131",
+    "name": "易方达科润混合(LOF)",
+    "price": 1.049,
+    "nav_prev": 1.0444,
+    "nav_estimated": 48.8702,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.85,
+    "premium_prev": 0.44
+  },
+  {
+    "code": "167002",
+    "name": "平安鼎越灵活配置混合(LOF)-A",
+    "price": 5.402,
+    "nav_prev": 5.3715,
+    "nav_estimated": 251.3465,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.85,
+    "premium_prev": 0.57
+  },
+  {
+    "code": "501051",
+    "name": "圆信永丰汇利混合(LOF)",
+    "price": 2.159,
+    "nav_prev": 2.15,
+    "nav_estimated": 100.6041,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.85,
+    "premium_prev": 0.42
+  },
+  {
     "code": "165528",
     "name": "中信保诚鼎利灵活配置混合(LOF)-A",
     "price": 2.602,
@@ -473,59 +363,15 @@
     "premium_prev": 0.55
   },
   {
-    "code": "160518",
-    "name": "博时睿远事件驱动灵活配置混合(LOF)",
-    "price": 2.618,
-    "nav_prev": 2.599,
-    "nav_estimated": 121.614,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.85,
-    "premium_prev": 0.73
-  },
-  {
-    "code": "501043",
-    "name": "汇添富沪深300指数(LOF)-A",
-    "price": 1.594,
-    "nav_prev": 1.5838,
-    "nav_estimated": 74.1101,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.85,
-    "premium_prev": 0.64
-  },
-  {
-    "code": "501045",
-    "name": "汇添富沪深300指数(LOF)-C",
-    "price": 1.562,
-    "nav_prev": 1.554,
-    "nav_estimated": 72.7157,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.85,
-    "premium_prev": 0.51
-  },
-  {
-    "code": "168105",
-    "name": "九泰泰富灵活配置混合(LOF)-A",
-    "price": 2.331,
-    "nav_prev": 2.3216,
-    "nav_estimated": 108.6337,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.85,
-    "premium_prev": 0.4
-  },
-  {
     "code": "160919",
     "name": "大成产业升级股票(LOF)-A",
     "price": 3.645,
-    "nav_prev": 3.6293,
-    "nav_estimated": 169.8244,
+    "nav_prev": 3.6261,
+    "nav_estimated": 169.6747,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.85,
-    "premium_prev": 0.43
+    "premium_prev": 0.52
   },
   {
     "code": "160220",
@@ -537,17 +383,6 @@
     "index_change": 4579.26,
     "premium_estimated": -97.85,
     "premium_prev": 0.46
-  },
-  {
-    "code": "163412",
-    "name": "兴全轻资产投资混合(LOF)",
-    "price": 4.13,
-    "nav_prev": 4.109,
-    "nav_estimated": 192.2708,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.85,
-    "premium_prev": 0.51
   },
   {
     "code": "160311",
@@ -572,17 +407,6 @@
     "premium_prev": 0.49
   },
   {
-    "code": "163418",
-    "name": "兴全合兴混合(LOF)-A",
-    "price": 0.855,
-    "nav_prev": 0.8543,
-    "nav_estimated": 39.9749,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.86,
-    "premium_prev": 0.08
-  },
-  {
     "code": "165515",
     "name": "中信保诚沪深300指数(LOF)-A",
     "price": 1.313,
@@ -594,37 +418,26 @@
     "premium_prev": -0.04
   },
   {
-    "code": "161811",
-    "name": "银华沪深300指数(LOF)-A",
-    "price": 1.06,
-    "nav_prev": 1.0605,
-    "nav_estimated": 49.6236,
+    "code": "501202",
+    "name": "华泰紫金创新先锋混合(LOF)-C",
+    "price": 1.298,
+    "nav_prev": 1.2982,
+    "nav_estimated": 60.7462,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.86,
-    "premium_prev": -0.05
-  },
-  {
-    "code": "169105",
-    "name": "东方红睿华沪港深灵活配置混合(LOF)-A",
-    "price": 2.165,
-    "nav_prev": 2.1602,
-    "nav_estimated": 101.0814,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.86,
-    "premium_prev": 0.22
+    "premium_prev": -0.02
   },
   {
     "code": "161912",
     "name": "万家社会责任18个月定开混合(LOF)-A",
     "price": 4.384,
-    "nav_prev": 4.3806,
-    "nav_estimated": 204.9797,
+    "nav_prev": 4.3854,
+    "nav_estimated": 205.2043,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.86,
-    "premium_prev": 0.08
+    "premium_prev": -0.03
   },
   {
     "code": "501064",
@@ -638,26 +451,48 @@
     "premium_prev": 0.14
   },
   {
-    "code": "160324",
-    "name": "华夏磐晟灵活配置混合(LOF)",
-    "price": 3.231,
-    "nav_prev": 3.2268,
-    "nav_estimated": 150.9904,
+    "code": "168301",
+    "name": "东海祥龙灵活配置混合(LOF)-A",
+    "price": 0.828,
+    "nav_prev": 0.8284,
+    "nav_estimated": 38.763,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.86,
-    "premium_prev": 0.13
+    "premium_prev": -0.05
   },
   {
     "code": "167001",
     "name": "平安鼎泰灵活配置混合(LOF)",
     "price": 1.914,
-    "nav_prev": 1.9077,
-    "nav_estimated": 89.2663,
+    "nav_prev": 1.9095,
+    "nav_estimated": 89.3505,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.86,
-    "premium_prev": 0.33
+    "premium_prev": 0.24
+  },
+  {
+    "code": "501043",
+    "name": "汇添富沪深300指数(LOF)-A",
+    "price": 1.594,
+    "nav_prev": 1.593,
+    "nav_estimated": 74.5406,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.86,
+    "premium_prev": 0.06
+  },
+  {
+    "code": "501045",
+    "name": "汇添富沪深300指数(LOF)-C",
+    "price": 1.562,
+    "nav_prev": 1.563,
+    "nav_estimated": 73.1368,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.86,
+    "premium_prev": -0.06
   },
   {
     "code": "164302",
@@ -671,37 +506,37 @@
     "premium_prev": 0.01
   },
   {
-    "code": "161225",
-    "name": "国投瑞银瑞盈灵活配置混合(LOF)-A",
-    "price": 2.481,
-    "nav_prev": 2.4824,
-    "nav_estimated": 116.158,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.86,
-    "premium_prev": -0.06
-  },
-  {
     "code": "161222",
     "name": "国投瑞银瑞利灵活配置混合(LOF)-A",
     "price": 2.943,
-    "nav_prev": 2.9439,
-    "nav_estimated": 137.7528,
+    "nav_prev": 2.9445,
+    "nav_estimated": 137.7808,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.86,
-    "premium_prev": -0.03
+    "premium_prev": -0.05
+  },
+  {
+    "code": "161903",
+    "name": "万家行业优选混合(LOF)",
+    "price": 1.712,
+    "nav_prev": 1.7104,
+    "nav_estimated": 80.0341,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.86,
+    "premium_prev": 0.09
   },
   {
     "code": "165313",
     "name": "建信优势动力混合(LOF)",
     "price": 4.236,
-    "nav_prev": 4.227,
-    "nav_estimated": 197.7924,
+    "nav_prev": 4.226,
+    "nav_estimated": 197.7456,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.86,
-    "premium_prev": 0.21
+    "premium_prev": 0.24
   },
   {
     "code": "150082",
@@ -713,17 +548,6 @@
     "index_change": 4579.26,
     "premium_estimated": -97.86,
     "premium_prev": -0.09
-  },
-  {
-    "code": "163407",
-    "name": "兴全沪深300指数增强(LOF)-A",
-    "price": 2.71,
-    "nav_prev": 2.7094,
-    "nav_estimated": 126.7799,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.86,
-    "premium_prev": 0.02
   },
   {
     "code": "160215",
@@ -781,26 +605,37 @@
     "premium_prev": 0.01
   },
   {
-    "code": "160805",
-    "name": "长盛同智优势成长混合(LOF)",
-    "price": 0.765,
-    "nav_prev": 0.7622,
-    "nav_estimated": 35.6653,
+    "code": "162006",
+    "name": "长城久富核心成长混合(LOF)-A",
+    "price": 1.799,
+    "nav_prev": 1.7984,
+    "nav_estimated": 84.1518,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.86,
-    "premium_prev": 0.37
+    "premium_prev": 0.03
+  },
+  {
+    "code": "162207",
+    "name": "宏利效率优选混合(LOF)",
+    "price": 1.411,
+    "nav_prev": 1.4062,
+    "nav_estimated": 65.7998,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.86,
+    "premium_prev": 0.34
   },
   {
     "code": "163402",
     "name": "兴全趋势投资混合(LOF)",
     "price": 0.885,
-    "nav_prev": 0.8836,
-    "nav_estimated": 41.3459,
+    "nav_prev": 0.8828,
+    "nav_estimated": 41.3085,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.86,
-    "premium_prev": 0.16
+    "premium_prev": 0.25
   },
   {
     "code": "160706",
@@ -814,92 +649,81 @@
     "premium_prev": 0.19
   },
   {
-    "code": "160505",
-    "name": "博时主题行业混合(LOF)",
-    "price": 1.11,
-    "nav_prev": 1.111,
-    "nav_estimated": 51.9866,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.86,
-    "premium_prev": -0.09
-  },
-  {
-    "code": "163801",
-    "name": "中银中国精选混合(LOF)-A",
-    "price": 0.831,
-    "nav_prev": 0.8294,
-    "nav_estimated": 38.8098,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.86,
-    "premium_prev": 0.19
-  },
-  {
     "code": "501217",
     "name": "华夏行业配置股票(FOF-LOF)-A",
     "price": 1.046,
-    "nav_prev": 1.0504,
-    "nav_estimated": 49.151,
+    "nav_prev": 1.051,
+    "nav_estimated": 49.179,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.87,
-    "premium_prev": -0.42
+    "premium_prev": -0.48
   },
   {
-    "code": "501202",
-    "name": "华泰紫金创新先锋混合(LOF)-C",
-    "price": 1.298,
-    "nav_prev": 1.3002,
-    "nav_estimated": 60.8397,
+    "code": "163418",
+    "name": "兴全合兴混合(LOF)-A",
+    "price": 0.855,
+    "nav_prev": 0.8568,
+    "nav_estimated": 40.0919,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.87,
-    "premium_prev": -0.17
+    "premium_prev": -0.21
+  },
+  {
+    "code": "166023",
+    "name": "中欧瑞丰灵活配置混合(LOF)-A",
+    "price": 1.33,
+    "nav_prev": 1.3341,
+    "nav_estimated": 62.426,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.87,
+    "premium_prev": -0.31
   },
   {
     "code": "163417",
     "name": "兴全合宜灵活配置混合(LOF)-A",
     "price": 2.127,
-    "nav_prev": 2.1321,
-    "nav_estimated": 99.7665,
+    "nav_prev": 2.1361,
+    "nav_estimated": 99.9537,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.87,
-    "premium_prev": -0.24
+    "premium_prev": -0.43
   },
   {
-    "code": "161834",
-    "name": "银华鑫锐灵活配置混合(LOF)-A",
-    "price": 1.831,
-    "nav_prev": 1.841,
-    "nav_estimated": 86.1452,
+    "code": "169105",
+    "name": "东方红睿华沪港深灵活配置混合(LOF)-A",
+    "price": 2.165,
+    "nav_prev": 2.1698,
+    "nav_estimated": 101.5306,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.87,
-    "premium_prev": -0.54
+    "premium_prev": -0.22
   },
   {
-    "code": "160526",
-    "name": "博时优势企业灵活配置混合(LOF)-A",
-    "price": 1.331,
-    "nav_prev": 1.3358,
-    "nav_estimated": 62.5056,
+    "code": "160324",
+    "name": "华夏磐晟灵活配置混合(LOF)",
+    "price": 3.231,
+    "nav_prev": 3.2434,
+    "nav_estimated": 151.7671,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.87,
-    "premium_prev": -0.36
+    "premium_prev": -0.38
   },
   {
-    "code": "161233",
-    "name": "国投瑞银瑞泰多策略灵活配置混合(LOF)-A",
-    "price": 1.803,
-    "nav_prev": 1.8118,
-    "nav_estimated": 84.7788,
+    "code": "168104",
+    "name": "九泰锐丰灵活配置混合(LOF)-A",
+    "price": 0.819,
+    "nav_prev": 0.8202,
+    "nav_estimated": 38.3793,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.87,
-    "premium_prev": -0.49
+    "premium_prev": -0.15
   },
   {
     "code": "160323",
@@ -913,70 +737,70 @@
     "premium_prev": -0.36
   },
   {
-    "code": "161728",
-    "name": "招商瑞智优选灵活配置混合(LOF)",
-    "price": 1.559,
-    "nav_prev": 1.5624,
-    "nav_estimated": 73.1088,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.87,
-    "premium_prev": -0.22
-  },
-  {
-    "code": "501186",
-    "name": "华夏兴融灵活配置混合(LOF)-A",
-    "price": 0.827,
-    "nav_prev": 0.8298,
-    "nav_estimated": 38.8285,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.87,
-    "premium_prev": -0.34
-  },
-  {
-    "code": "168301",
-    "name": "东海祥龙灵活配置混合(LOF)-A",
-    "price": 0.828,
-    "nav_prev": 0.8321,
-    "nav_estimated": 38.9361,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.87,
-    "premium_prev": -0.49
-  },
-  {
     "code": "169201",
     "name": "浙商汇金鼎盈事件驱动灵活配置混合(LOF)",
     "price": 1.91,
-    "nav_prev": 1.9151,
-    "nav_estimated": 89.6125,
+    "nav_prev": 1.9178,
+    "nav_estimated": 89.7389,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.87,
-    "premium_prev": -0.27
+    "premium_prev": -0.41
   },
   {
-    "code": "501001",
-    "name": "财通多策略精选混合(LOF)",
-    "price": 1.555,
-    "nav_prev": 1.558,
-    "nav_estimated": 72.9029,
+    "code": "501026",
+    "name": "财通多策略福享混合(LOF)-A",
+    "price": 2.509,
+    "nav_prev": 2.513,
+    "nav_estimated": 117.5898,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.87,
+    "premium_prev": -0.16
+  },
+  {
+    "code": "160518",
+    "name": "博时睿远事件驱动灵活配置混合(LOF)",
+    "price": 2.618,
+    "nav_prev": 2.624,
+    "nav_estimated": 122.7838,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.87,
+    "premium_prev": -0.23
+  },
+  {
+    "code": "169101",
+    "name": "东方红睿丰灵活配置混合(LOF)",
+    "price": 2.077,
+    "nav_prev": 2.081,
+    "nav_estimated": 97.3754,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.87,
     "premium_prev": -0.19
   },
   {
-    "code": "160421",
-    "name": "华安智增精选灵活配置混合(LOF)",
-    "price": 1.658,
-    "nav_prev": 1.6633,
-    "nav_estimated": 77.8301,
+    "code": "168102",
+    "name": "九泰锐富事件驱动混合(LOF)-A",
+    "price": 1.114,
+    "nav_prev": 1.119,
+    "nav_estimated": 52.3609,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.87,
-    "premium_prev": -0.32
+    "premium_prev": -0.45
+  },
+  {
+    "code": "161225",
+    "name": "国投瑞银瑞盈灵活配置混合(LOF)-A",
+    "price": 2.481,
+    "nav_prev": 2.4919,
+    "nav_estimated": 116.6025,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.87,
+    "premium_prev": -0.44
   },
   {
     "code": "162308",
@@ -1004,12 +828,12 @@
     "code": "163415",
     "name": "兴全商业模式优选混合(LOF)-A",
     "price": 5.124,
-    "nav_prev": 5.151,
-    "nav_estimated": 241.0287,
+    "nav_prev": 5.144,
+    "nav_estimated": 240.7012,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.87,
-    "premium_prev": -0.52
+    "premium_prev": -0.39
   },
   {
     "code": "166105",
@@ -1021,6 +845,17 @@
     "index_change": 4579.26,
     "premium_estimated": -97.87,
     "premium_prev": -0.49
+  },
+  {
+    "code": "166011",
+    "name": "中欧盛世成长混合(LOF)-A",
+    "price": 1.771,
+    "nav_prev": 1.7802,
+    "nav_estimated": 83.3002,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.87,
+    "premium_prev": -0.52
   },
   {
     "code": "162105",
@@ -1045,15 +880,59 @@
     "premium_prev": -0.52
   },
   {
-    "code": "161706",
-    "name": "招商优质成长混合(LOF)",
-    "price": 4.013,
-    "nav_prev": 4.0334,
-    "nav_estimated": 188.7333,
+    "code": "163407",
+    "name": "兴全沪深300指数增强(LOF)-A",
+    "price": 2.71,
+    "nav_prev": 2.7135,
+    "nav_estimated": 126.9717,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.87,
-    "premium_prev": -0.51
+    "premium_prev": -0.13
+  },
+  {
+    "code": "160910",
+    "name": "大成创新成长混合(LOF)-A",
+    "price": 0.929,
+    "nav_prev": 0.933,
+    "nav_estimated": 43.6575,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.87,
+    "premium_prev": -0.43
+  },
+  {
+    "code": "161610",
+    "name": "融通领先成长混合(LOF)-A",
+    "price": 1.837,
+    "nav_prev": 1.841,
+    "nav_estimated": 86.1452,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.87,
+    "premium_prev": -0.22
+  },
+  {
+    "code": "161706",
+    "name": "招商优质成长混合(LOF)",
+    "price": 4.013,
+    "nav_prev": 4.0189,
+    "nav_estimated": 188.0548,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.87,
+    "premium_prev": -0.15
+  },
+  {
+    "code": "161005",
+    "name": "富国天惠精选成长混合(LOF)-A",
+    "price": 3.19,
+    "nav_prev": 3.1982,
+    "nav_estimated": 149.6521,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.87,
+    "premium_prev": -0.26
   },
   {
     "code": "163302",
@@ -1067,26 +946,103 @@
     "premium_prev": -0.4
   },
   {
-    "code": "160326",
-    "name": "华夏优选配置股票(FOF-LOF)-A",
-    "price": 0.924,
-    "nav_prev": 0.9326,
-    "nav_estimated": 43.6388,
+    "code": "160505",
+    "name": "博时主题行业混合(LOF)",
+    "price": 1.11,
+    "nav_prev": 1.115,
+    "nav_estimated": 52.1738,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
-    "premium_estimated": -97.88,
-    "premium_prev": -0.92
+    "premium_estimated": -97.87,
+    "premium_prev": -0.45
   },
   {
-    "code": "501087",
-    "name": "交银瑞丰混合(LOF)",
-    "price": 1.347,
-    "nav_prev": 1.3589,
-    "nav_estimated": 63.5865,
+    "code": "163801",
+    "name": "中银中国精选混合(LOF)-A",
+    "price": 0.831,
+    "nav_prev": 0.8356,
+    "nav_estimated": 39.0999,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.87,
+    "premium_prev": -0.55
+  },
+  {
+    "code": "161811",
+    "name": "银华沪深300指数(LOF)-A",
+    "price": 1.06,
+    "nav_prev": 1.0666,
+    "nav_estimated": 49.909,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.88,
-    "premium_prev": -0.88
+    "premium_prev": -0.62
+  },
+  {
+    "code": "168101",
+    "name": "九泰锐智事件驱动灵活配置混合(LOF)",
+    "price": 1.465,
+    "nav_prev": 1.476,
+    "nav_estimated": 69.0659,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.88,
+    "premium_prev": -0.75
+  },
+  {
+    "code": "160527",
+    "name": "博时研究优选灵活配置混合(LOF)-A",
+    "price": 0.835,
+    "nav_prev": 0.8404,
+    "nav_estimated": 39.3245,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.88,
+    "premium_prev": -0.64
+  },
+  {
+    "code": "501032",
+    "name": "财通福盛多策略混合(LOF)-A",
+    "price": 1.76,
+    "nav_prev": 1.7744,
+    "nav_estimated": 83.0288,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.88,
+    "premium_prev": -0.81
+  },
+  {
+    "code": "161834",
+    "name": "银华鑫锐灵活配置混合(LOF)-A",
+    "price": 1.831,
+    "nav_prev": 1.847,
+    "nav_estimated": 86.4259,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.88,
+    "premium_prev": -0.87
+  },
+  {
+    "code": "161729",
+    "name": "招商瑞利灵活配置混合(LOF)-A",
+    "price": 2.006,
+    "nav_prev": 2.0227,
+    "nav_estimated": 94.6474,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.88,
+    "premium_prev": -0.83
+  },
+  {
+    "code": "169104",
+    "name": "东方红睿满沪港深灵活配置混合(LOF)-A",
+    "price": 2.901,
+    "nav_prev": 2.926,
+    "nav_estimated": 136.9152,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.88,
+    "premium_prev": -0.85
   },
   {
     "code": "168108",
@@ -1100,15 +1056,26 @@
     "premium_prev": -0.72
   },
   {
-    "code": "167003",
-    "name": "平安鼎弘混合(LOF)-A",
-    "price": 1.16,
-    "nav_prev": 1.1672,
-    "nav_estimated": 54.6163,
+    "code": "501028",
+    "name": "财通多策略福瑞混合(LOF)-A",
+    "price": 1.449,
+    "nav_prev": 1.4603,
+    "nav_estimated": 68.3312,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.88,
-    "premium_prev": -0.62
+    "premium_prev": -0.77
+  },
+  {
+    "code": "167003",
+    "name": "平安鼎弘混合(LOF)-A",
+    "price": 1.16,
+    "nav_prev": 1.167,
+    "nav_estimated": 54.607,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.88,
+    "premium_prev": -0.6
   },
   {
     "code": "501022",
@@ -1144,26 +1111,59 @@
     "premium_prev": -0.99
   },
   {
-    "code": "161131",
-    "name": "易方达科润混合(LOF)",
-    "price": 1.049,
-    "nav_prev": 1.0596,
-    "nav_estimated": 49.5814,
+    "code": "160921",
+    "name": "大成多策略灵活配置混合(LOF)-A",
+    "price": 1.388,
+    "nav_prev": 1.3981,
+    "nav_estimated": 65.4207,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.88,
-    "premium_prev": -1.0
+    "premium_prev": -0.72
   },
   {
-    "code": "160142",
-    "name": "南方优势产业灵活配置混合(LOF)",
-    "price": 1.093,
-    "nav_prev": 1.1015,
-    "nav_estimated": 51.5421,
+    "code": "161233",
+    "name": "国投瑞银瑞泰多策略灵活配置混合(LOF)-A",
+    "price": 1.803,
+    "nav_prev": 1.8182,
+    "nav_estimated": 85.0783,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.88,
-    "premium_prev": -0.77
+    "premium_prev": -0.84
+  },
+  {
+    "code": "161728",
+    "name": "招商瑞智优选灵活配置混合(LOF)",
+    "price": 1.559,
+    "nav_prev": 1.5721,
+    "nav_estimated": 73.5627,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.88,
+    "premium_prev": -0.83
+  },
+  {
+    "code": "501186",
+    "name": "华夏兴融灵活配置混合(LOF)-A",
+    "price": 0.827,
+    "nav_prev": 0.8321,
+    "nav_estimated": 38.9361,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.88,
+    "premium_prev": -0.61
+  },
+  {
+    "code": "501188",
+    "name": "汇添富核心精选灵活配置混合(LOF)",
+    "price": 1.074,
+    "nav_prev": 1.0806,
+    "nav_estimated": 50.5641,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.88,
+    "premium_prev": -0.61
   },
   {
     "code": "160522",
@@ -1188,59 +1188,59 @@
     "premium_prev": -0.66
   },
   {
+    "code": "168105",
+    "name": "九泰泰富灵活配置混合(LOF)-A",
+    "price": 2.331,
+    "nav_prev": 2.3467,
+    "nav_estimated": 109.8082,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.88,
+    "premium_prev": -0.67
+  },
+  {
     "code": "168103",
     "name": "九泰锐益灵活配置混合(LOF)-A",
     "price": 1.375,
-    "nav_prev": 1.383,
-    "nav_estimated": 64.7142,
+    "nav_prev": 1.386,
+    "nav_estimated": 64.8546,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.88,
-    "premium_prev": -0.58
-  },
-  {
-    "code": "168102",
-    "name": "九泰锐富事件驱动混合(LOF)-A",
-    "price": 1.114,
-    "nav_prev": 1.124,
-    "nav_estimated": 52.5949,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.88,
-    "premium_prev": -0.89
+    "premium_prev": -0.79
   },
   {
     "code": "160133",
     "name": "南方天元新产业股票(LOF)",
     "price": 4.386,
-    "nav_prev": 4.4216,
-    "nav_estimated": 206.8982,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.88,
-    "premium_prev": -0.81
-  },
-  {
-    "code": "160812",
-    "name": "长盛同益成长回报灵活配置混合(LOF)",
-    "price": 2.446,
-    "nav_prev": 2.465,
-    "nav_estimated": 115.3438,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.88,
-    "premium_prev": -0.77
-  },
-  {
-    "code": "161903",
-    "name": "万家行业优选混合(LOF)",
-    "price": 1.712,
-    "nav_prev": 1.7248,
-    "nav_estimated": 80.7079,
+    "nav_prev": 4.4189,
+    "nav_estimated": 206.7719,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.88,
     "premium_prev": -0.74
+  },
+  {
+    "code": "160916",
+    "name": "大成优选混合(LOF)-A",
+    "price": 4.614,
+    "nav_prev": 4.661,
+    "nav_estimated": 218.1003,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.88,
+    "premium_prev": -1.01
+  },
+  {
+    "code": "163412",
+    "name": "兴全轻资产投资混合(LOF)",
+    "price": 4.13,
+    "nav_prev": 4.168,
+    "nav_estimated": 195.0316,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.88,
+    "premium_prev": -0.91
   },
   {
     "code": "150078",
@@ -1254,81 +1254,70 @@
     "premium_prev": -0.67
   },
   {
+    "code": "160512",
+    "name": "博时卓越品牌混合(LOF)-A",
+    "price": 2.97,
+    "nav_prev": 2.993,
+    "nav_estimated": 140.0503,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.88,
+    "premium_prev": -0.77
+  },
+  {
     "code": "166009",
     "name": "中欧新动力混合(LOF)-A",
     "price": 3.525,
-    "nav_prev": 3.5566,
-    "nav_estimated": 166.4226,
+    "nav_prev": 3.5537,
+    "nav_estimated": 166.2869,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.88,
-    "premium_prev": -0.89
+    "premium_prev": -0.81
   },
   {
-    "code": "162207",
-    "name": "宏利效率优选混合(LOF)",
-    "price": 1.411,
-    "nav_prev": 1.4209,
-    "nav_estimated": 66.4876,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.88,
-    "premium_prev": -0.7
-  },
-  {
-    "code": "161005",
-    "name": "富国天惠精选成长混合(LOF)-A",
-    "price": 3.19,
-    "nav_prev": 3.211,
-    "nav_estimated": 150.2511,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.88,
-    "premium_prev": -0.65
-  },
-  {
-    "code": "160527",
-    "name": "博时研究优选灵活配置混合(LOF)-A",
-    "price": 0.835,
-    "nav_prev": 0.8451,
-    "nav_estimated": 39.5444,
+    "code": "160326",
+    "name": "华夏优选配置股票(FOF-LOF)-A",
+    "price": 0.924,
+    "nav_prev": 0.9343,
+    "nav_estimated": 43.7183,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.89,
-    "premium_prev": -1.2
+    "premium_prev": -1.1
   },
   {
     "code": "501092",
     "name": "交银瑞思混合(LOF)",
     "price": 1.289,
-    "nav_prev": 1.3043,
-    "nav_estimated": 61.0316,
+    "nav_prev": 1.307,
+    "nav_estimated": 61.1579,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.89,
-    "premium_prev": -1.17
+    "premium_prev": -1.38
   },
   {
-    "code": "161729",
-    "name": "招商瑞利灵活配置混合(LOF)-A",
-    "price": 2.006,
-    "nav_prev": 2.0279,
-    "nav_estimated": 94.8907,
+    "code": "501087",
+    "name": "交银瑞丰混合(LOF)",
+    "price": 1.347,
+    "nav_prev": 1.3649,
+    "nav_estimated": 63.8672,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.89,
-    "premium_prev": -1.08
+    "premium_prev": -1.31
   },
   {
-    "code": "501028",
-    "name": "财通多策略福瑞混合(LOF)-A",
-    "price": 1.449,
-    "nav_prev": 1.4668,
-    "nav_estimated": 68.6354,
+    "code": "160526",
+    "name": "博时优势企业灵活配置混合(LOF)-A",
+    "price": 1.331,
+    "nav_prev": 1.3483,
+    "nav_estimated": 63.0905,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.89,
-    "premium_prev": -1.21
+    "premium_prev": -1.28
   },
   {
     "code": "162718",
@@ -1342,6 +1331,17 @@
     "premium_prev": -1.3
   },
   {
+    "code": "160142",
+    "name": "南方优势产业灵活配置混合(LOF)",
+    "price": 1.093,
+    "nav_prev": 1.1085,
+    "nav_estimated": 51.8696,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.89,
+    "premium_prev": -1.4
+  },
+  {
     "code": "501017",
     "name": "国泰融丰外延增长灵活配置混合(LOF)-A",
     "price": 1.361,
@@ -1353,15 +1353,37 @@
     "premium_prev": -1.15
   },
   {
-    "code": "161224",
-    "name": "国投瑞银新丝路灵活配置混合(LOF)",
-    "price": 1.332,
-    "nav_prev": 1.349,
-    "nav_estimated": 63.1232,
+    "code": "501015",
+    "name": "财通多策略升级混合(LOF)-A",
+    "price": 3.073,
+    "nav_prev": 3.11,
+    "nav_estimated": 145.525,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.89,
-    "premium_prev": -1.26
+    "premium_prev": -1.19
+  },
+  {
+    "code": "160421",
+    "name": "华安智增精选灵活配置混合(LOF)",
+    "price": 1.658,
+    "nav_prev": 1.6805,
+    "nav_estimated": 78.635,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.89,
+    "premium_prev": -1.34
+  },
+  {
+    "code": "160812",
+    "name": "长盛同益成长回报灵活配置混合(LOF)",
+    "price": 2.446,
+    "nav_prev": 2.475,
+    "nav_estimated": 115.8117,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.89,
+    "premium_prev": -1.17
   },
   {
     "code": "165512",
@@ -1386,48 +1408,15 @@
     "premium_prev": -1.45
   },
   {
-    "code": "501211",
-    "name": "民生加银优享6个月定开混合(FOF-LOF)",
-    "price": 1.057,
-    "nav_prev": 1.0775,
-    "nav_estimated": 50.419,
+    "code": "160805",
+    "name": "长盛同智优势成长混合(LOF)",
+    "price": 0.765,
+    "nav_prev": 0.775,
+    "nav_estimated": 36.2643,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
-    "premium_estimated": -97.9,
-    "premium_prev": -1.9
-  },
-  {
-    "code": "168101",
-    "name": "九泰锐智事件驱动灵活配置混合(LOF)",
-    "price": 1.465,
-    "nav_prev": 1.488,
-    "nav_estimated": 69.6274,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.9,
-    "premium_prev": -1.55
-  },
-  {
-    "code": "168104",
-    "name": "九泰锐丰灵活配置混合(LOF)-A",
-    "price": 0.819,
-    "nav_prev": 0.833,
-    "nav_estimated": 38.9782,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.9,
-    "premium_prev": -1.68
-  },
-  {
-    "code": "160921",
-    "name": "大成多策略灵活配置混合(LOF)-A",
-    "price": 1.388,
-    "nav_prev": 1.413,
-    "nav_estimated": 66.118,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.9,
-    "premium_prev": -1.77
+    "premium_estimated": -97.89,
+    "premium_prev": -1.29
   },
   {
     "code": "501189",
@@ -1441,26 +1430,15 @@
     "premium_prev": -1.64
   },
   {
-    "code": "160916",
-    "name": "大成优选混合(LOF)-A",
-    "price": 4.614,
-    "nav_prev": 4.688,
-    "nav_estimated": 219.3637,
+    "code": "501001",
+    "name": "财通多策略精选混合(LOF)",
+    "price": 1.555,
+    "nav_prev": 1.581,
+    "nav_estimated": 73.9791,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.9,
-    "premium_prev": -1.58
-  },
-  {
-    "code": "160910",
-    "name": "大成创新成长混合(LOF)-A",
-    "price": 0.929,
-    "nav_prev": 0.946,
-    "nav_estimated": 44.2658,
-    "index_name": "沪深300指数",
-    "index_change": 4579.26,
-    "premium_estimated": -97.9,
-    "premium_prev": -1.8
+    "premium_prev": -1.64
   },
   {
     "code": "162607",
@@ -1474,6 +1452,17 @@
     "premium_prev": -1.81
   },
   {
+    "code": "161224",
+    "name": "国投瑞银新丝路灵活配置混合(LOF)",
+    "price": 1.332,
+    "nav_prev": 1.3627,
+    "nav_estimated": 63.7643,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.91,
+    "premium_prev": -2.25
+  },
+  {
     "code": "150045",
     "name": "海富通稳进增利债券(LOF)-B",
     "price": 1.651,
@@ -1485,15 +1474,15 @@
     "premium_prev": -2.31
   },
   {
-    "code": "501062",
-    "name": "南方瑞合三年定开混合(LOF)",
-    "price": 2.094,
-    "nav_prev": 2.1484,
-    "nav_estimated": 100.5292,
+    "code": "501211",
+    "name": "民生加银优享6个月定开混合(FOF-LOF)",
+    "price": 1.057,
+    "nav_prev": 1.084,
+    "nav_estimated": 50.7232,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
     "premium_estimated": -97.92,
-    "premium_prev": -2.53
+    "premium_prev": -2.49
   },
   {
     "code": "160611",
@@ -1529,6 +1518,17 @@
     "premium_prev": -3.39
   },
   {
+    "code": "501062",
+    "name": "南方瑞合三年定开混合(LOF)",
+    "price": 2.094,
+    "nav_prev": 2.1833,
+    "nav_estimated": 102.1623,
+    "index_name": "沪深300指数",
+    "index_change": 4579.26,
+    "premium_estimated": -97.95,
+    "premium_prev": -4.09
+  },
+  {
     "code": "161811",
     "name": "银华沪深300指数(LOF)",
     "price": 0.783,
@@ -1554,12 +1554,12 @@
     "code": "161227",
     "name": "国投瑞银瑞福深证100指数(LOF)",
     "price": 1.642,
-    "nav_prev": 1.6325,
-    "nav_estimated": 100.1839,
+    "nav_prev": 1.6535,
+    "nav_estimated": 101.4726,
     "index_name": "深证100指数",
     "index_change": 6036.84,
-    "premium_estimated": -98.36,
-    "premium_prev": 0.58
+    "premium_estimated": -98.38,
+    "premium_prev": -0.7
   },
   {
     "code": "160809",
@@ -1587,34 +1587,23 @@
     "code": "501097",
     "name": "国寿安保科技创新混合(LOF)",
     "price": 1.99,
-    "nav_prev": 1.9587,
-    "nav_estimated": 153.8809,
+    "nav_prev": 1.9824,
+    "nav_estimated": 155.7428,
     "index_name": "中证500指数",
     "index_change": 7756.28,
-    "premium_estimated": -98.71,
-    "premium_prev": 1.6
+    "premium_estimated": -98.72,
+    "premium_prev": 0.38
   },
   {
     "code": "162216",
     "name": "宏利中证500指数增强(LOF)",
     "price": 1.698,
-    "nav_prev": 1.6806,
-    "nav_estimated": 132.0326,
+    "nav_prev": 1.6847,
+    "nav_estimated": 132.3547,
     "index_name": "中证500指数",
     "index_change": 7756.28,
-    "premium_estimated": -98.71,
-    "premium_prev": 1.04
-  },
-  {
-    "code": "501219",
-    "name": "华夏智胜先锋股票(LOF)-A",
-    "price": 1.643,
-    "nav_prev": 1.6485,
-    "nav_estimated": 129.5107,
-    "index_name": "中证500指数",
-    "index_change": 7756.28,
-    "premium_estimated": -98.73,
-    "premium_prev": -0.33
+    "premium_estimated": -98.72,
+    "premium_prev": 0.79
   },
   {
     "code": "165511",
@@ -1628,17 +1617,6 @@
     "premium_prev": -0.03
   },
   {
-    "code": "502000",
-    "name": "西部利得中证500指数增强(LOF)-A",
-    "price": 2.013,
-    "nav_prev": 2.0204,
-    "nav_estimated": 158.7282,
-    "index_name": "中证500指数",
-    "index_change": 7756.28,
-    "premium_estimated": -98.73,
-    "premium_prev": -0.37
-  },
-  {
     "code": "166107",
     "name": "信澳量化多因子混合(LOF)-A",
     "price": 1.429,
@@ -1648,6 +1626,28 @@
     "index_change": 7756.28,
     "premium_estimated": -98.73,
     "premium_prev": -0.27
+  },
+  {
+    "code": "501219",
+    "name": "华夏智胜先锋股票(LOF)-A",
+    "price": 1.643,
+    "nav_prev": 1.656,
+    "nav_estimated": 130.0999,
+    "index_name": "中证500指数",
+    "index_change": 7756.28,
+    "premium_estimated": -98.74,
+    "premium_prev": -0.79
+  },
+  {
+    "code": "502000",
+    "name": "西部利得中证500指数增强(LOF)-A",
+    "price": 2.013,
+    "nav_prev": 2.0284,
+    "nav_estimated": 159.3567,
+    "index_name": "中证500指数",
+    "index_change": 7756.28,
+    "premium_estimated": -98.74,
+    "premium_prev": -0.76
   },
   {
     "code": "169301",
@@ -1686,12 +1686,23 @@
     "code": "163001",
     "name": "长信医疗保健行业灵活配置混合(LOF)-A",
     "price": 1.499,
-    "nav_prev": 1.527,
-    "nav_estimated": 125.0679,
+    "nav_prev": 1.466,
+    "nav_estimated": 120.0718,
     "index_name": "中证医药指数",
     "index_change": 8090.44,
-    "premium_estimated": -98.8,
-    "premium_prev": -1.83
+    "premium_estimated": -98.75,
+    "premium_prev": 2.25
+  },
+  {
+    "code": "161035",
+    "name": "富国中证医药主题指数增强(LOF)-A",
+    "price": 1.321,
+    "nav_prev": 1.335,
+    "nav_estimated": 109.3423,
+    "index_name": "中证医药指数",
+    "index_change": 8090.44,
+    "premium_estimated": -98.79,
+    "premium_prev": -1.05
   },
   {
     "code": "160635",
@@ -1705,37 +1716,26 @@
     "premium_prev": -3.75
   },
   {
-    "code": "161035",
-    "name": "富国中证医药主题指数增强(LOF)-A",
-    "price": 1.321,
-    "nav_prev": 1.377,
-    "nav_estimated": 112.7823,
-    "index_name": "中证医药指数",
-    "index_change": 8090.44,
-    "premium_estimated": -98.83,
-    "premium_prev": -4.07
-  },
-  {
     "code": "168002",
     "name": "国寿安保策略精选灵活配置混合(LOF)-A",
     "price": 1.58,
-    "nav_prev": 3.0581,
-    "nav_estimated": 143.0965,
+    "nav_prev": 3.1275,
+    "nav_estimated": 146.3439,
     "index_name": "沪深300指数",
     "index_change": 4579.26,
-    "premium_estimated": -98.9,
-    "premium_prev": -48.33
+    "premium_estimated": -98.92,
+    "premium_prev": -49.48
   },
   {
     "code": "501090",
     "name": "华宝中证消费龙头ETF联接(LOF)-A",
     "price": 1.081,
-    "nav_prev": 1.09,
-    "nav_estimated": 135.5704,
+    "nav_prev": 1.0789,
+    "nav_estimated": 134.1898,
     "index_name": "中证消费指数",
     "index_change": 12337.65,
-    "premium_estimated": -99.2,
-    "premium_prev": -0.83
+    "premium_estimated": -99.19,
+    "premium_prev": 0.19
   },
   {
     "code": "160641",
@@ -1752,78 +1752,78 @@
     "code": "501312",
     "name": "华宝海外科技股票(QDII-LOF)-A",
     "price": 2.383,
-    "nav_prev": 2.4077,
+    "nav_prev": 2.3934,
     "nav_estimated": null,
     "index_name": "纳斯达克100指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.03
+    "premium_prev": -0.43
   },
   {
     "code": "501225",
     "name": "景顺长城全球半导体芯片产业股票(QDII-LOF)-A-CNY",
     "price": 3.579,
-    "nav_prev": 2.999,
+    "nav_prev": 2.9979,
     "nav_estimated": null,
     "index_name": "费城半导体指数收益率(PHLXSemiconductorSe",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 19.34
+    "premium_prev": 19.38
   },
   {
     "code": "501222",
     "name": "易方达如意招享混合(FOF-LOF)-A",
     "price": 1.039,
-    "nav_prev": 1.0513,
+    "nav_prev": 1.0515,
     "nav_estimated": null,
     "index_name": "中证债券型基金指数收益率×80%+中证偏股型基金指数收益率×",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.17
+    "premium_prev": -1.19
   },
   {
     "code": "162721",
     "name": "广发积极优势混合(FOF-LOF)-A",
     "price": 1.265,
-    "nav_prev": 1.2675,
+    "nav_prev": 1.2839,
     "nav_estimated": null,
     "index_name": "恒生指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.2
+    "premium_prev": -1.47
   },
   {
     "code": "161133",
     "name": "易方达优势回报混合(FOF-LOF)-A",
     "price": 1.764,
-    "nav_prev": 1.7579,
+    "nav_prev": 1.7734,
     "nav_estimated": null,
     "index_name": "中证800指数收益率×75%+中债新综合指数(财富)收益率×",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.35
+    "premium_prev": -0.53
   },
   {
     "code": "501216",
     "name": "富国智鑫行业精选股票(FOF-LOF)-A",
     "price": 0.916,
-    "nav_prev": 0.9128,
+    "nav_prev": 0.9231,
     "nav_estimated": null,
     "index_name": "中证800指数收益率×90%+活期存款基准利率×10%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.35
+    "premium_prev": -0.77
   },
   {
     "code": "501218",
     "name": "工银瑞信睿智进取股票(FOF-LOF)-A",
     "price": 0.968,
-    "nav_prev": 0.9563,
+    "nav_prev": 0.9692,
     "nav_estimated": null,
     "index_name": "中证800指数收益率×90%+中债-新综合财富(总值)指数收",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 1.22
+    "premium_prev": -0.12
   },
   {
     "code": "501215",
@@ -1840,12 +1840,12 @@
     "code": "501210",
     "name": "交银智选星光混合(FOF-LOF)-A",
     "price": 1.3,
-    "nav_prev": 1.2873,
+    "nav_prev": 1.2965,
     "nav_estimated": null,
     "index_name": "中证偏股型基金指数收益率×90%+中债综合全价指数收益率×1",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.99
+    "premium_prev": 0.27
   },
   {
     "code": "501213",
@@ -1862,34 +1862,34 @@
     "code": "501212",
     "name": "广发优选配置混合(FOF-LOF)-A",
     "price": 1.045,
-    "nav_prev": 1.0516,
+    "nav_prev": 1.0558,
     "nav_estimated": null,
     "index_name": "恒生指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.63
+    "premium_prev": -1.02
   },
   {
     "code": "501209",
     "name": "银华富久食品饮料精选混合(LOF)-A",
     "price": 0.478,
-    "nav_prev": 0.4838,
+    "nav_prev": 0.4765,
     "nav_estimated": null,
     "index_name": "中证食品饮料指数收益率×80%+中证港股通综合指数(人民币)",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.2
+    "premium_prev": 0.31
   },
   {
     "code": "501203",
     "name": "易方达创新未来混合(LOF)",
     "price": 1.566,
-    "nav_prev": 1.5606,
+    "nav_prev": 1.5886,
     "nav_estimated": null,
     "index_name": "中证800指数收益率×65%+中债总指数收益率×20%+中证",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.35
+    "premium_prev": -1.42
   },
   {
     "code": "501205",
@@ -1906,34 +1906,34 @@
     "code": "501206",
     "name": "汇添富创新未来混合(LOF)",
     "price": 0.92,
-    "nav_prev": 0.924,
+    "nav_prev": 0.9317,
     "nav_estimated": null,
     "index_name": "恒生指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.43
+    "premium_prev": -1.26
   },
   {
     "code": "501207",
     "name": "华夏创新未来混合(LOF)",
     "price": 0.811,
-    "nav_prev": 0.8011,
+    "nav_prev": 0.8085,
     "nav_estimated": null,
     "index_name": "中证科技100指数收益率×65%+恒生科技指数收益率×20%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 1.24
+    "premium_prev": 0.31
   },
   {
     "code": "501208",
     "name": "中欧创新未来混合(LOF)",
     "price": 1.324,
-    "nav_prev": 1.3288,
+    "nav_prev": 1.3399,
     "nav_estimated": null,
     "index_name": "恒生指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.36
+    "premium_prev": -1.19
   },
   {
     "code": "160620",
@@ -2038,12 +2038,12 @@
     "code": "502053",
     "name": "长盛中证全指证券公司指数(LOF)-A",
     "price": 1.061,
-    "nav_prev": 1.0609,
+    "nav_prev": 1.0622,
     "nav_estimated": null,
     "index_name": "中证全指证券公司指数收益率×95%+银行活期存款利率(税后)",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.01
+    "premium_prev": -0.11
   },
   {
     "code": "160638",
@@ -2082,23 +2082,23 @@
     "code": "161032",
     "name": "富国中证煤炭指数(LOF)-A",
     "price": 2.309,
-    "nav_prev": 2.312,
+    "nav_prev": 2.327,
     "nav_estimated": null,
     "index_name": "中证煤炭指数收益率×95%+银行人民币活期存款利率(税后)×",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.13
+    "premium_prev": -0.77
   },
   {
     "code": "161123",
     "name": "易方达中证万得并购重组指数(LOF)",
     "price": 1.433,
-    "nav_prev": 1.4356,
+    "nav_prev": 1.441,
     "nav_estimated": null,
     "index_name": "中证万得并购重组指数收益率×95%+活期存款利率(税后)×5",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.18
+    "premium_prev": -0.56
   },
   {
     "code": "165519",
@@ -2159,45 +2159,45 @@
     "code": "502003",
     "name": "易方达中证军工指数(LOF)-A",
     "price": 1.37,
-    "nav_prev": 1.3569,
+    "nav_prev": 1.3677,
     "nav_estimated": null,
     "index_name": "中证军工指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.97
+    "premium_prev": 0.17
   },
   {
     "code": "502006",
     "name": "易方达中证国有企业改革指数(LOF)-A",
     "price": 1.582,
-    "nav_prev": 1.5835,
+    "nav_prev": 1.589,
     "nav_estimated": null,
     "index_name": "中证国有企业改革指数收益率×95%+同期银行活期存款利率(税",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.09
+    "premium_prev": -0.44
   },
   {
     "code": "502010",
     "name": "易方达中证全指证券公司指数(LOF)-A",
     "price": 1.228,
-    "nav_prev": 1.2346,
+    "nav_prev": 1.2362,
     "nav_estimated": null,
     "index_name": "中证全指证券公司指数收益率×95%+同期银行活期存款利率(税",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.53
+    "premium_prev": -0.66
   },
   {
     "code": "502013",
     "name": "长盛中证申万一带一路主题指数(LOF)",
     "price": 1.443,
-    "nav_prev": 1.4526,
+    "nav_prev": 1.4546,
     "nav_estimated": null,
     "index_name": "中证申万一带一路主题指数收益率×95%+银行活期存款利率(税",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.66
+    "premium_prev": -0.8
   },
   {
     "code": "502023",
@@ -2214,45 +2214,45 @@
     "code": "162509",
     "name": "国联安中证A100指数(LOF)",
     "price": 1.002,
-    "nav_prev": 0.9968,
+    "nav_prev": 1.0044,
     "nav_estimated": null,
     "index_name": "中证A100指数收益率×95%+活期存款利率(税后)×5%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.52
+    "premium_prev": -0.24
   },
   {
     "code": "161122",
     "name": "易方达中证万得生物科技指数(LOF)-A",
     "price": 0.597,
-    "nav_prev": 0.6232,
+    "nav_prev": 0.6022,
     "nav_estimated": null,
     "index_name": "中证万得生物科技指数收益率×95%+活期存款利率(税后)×5",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -4.2
+    "premium_prev": -0.86
   },
   {
     "code": "164705",
     "name": "汇添富恒生指数(QDII-LOF)-A",
     "price": 1.156,
-    "nav_prev": 1.1494,
+    "nav_prev": 1.1624,
     "nav_estimated": null,
     "index_name": "恒生指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.57
+    "premium_prev": -0.55
   },
   {
     "code": "160135",
     "name": "南方中证高铁产业指数(LOF)",
     "price": 0.988,
-    "nav_prev": 0.9983,
+    "nav_prev": 0.9876,
     "nav_estimated": null,
     "index_name": "中证高铁产业指数收益率×95%+银行人民币活期存款利率(税后",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.03
+    "premium_prev": 0.04
   },
   {
     "code": "160136",
@@ -2269,56 +2269,56 @@
     "code": "161816",
     "name": "银华中证等权重90指数(LOF)",
     "price": 0.957,
-    "nav_prev": 0.9549,
+    "nav_prev": 0.9578,
     "nav_estimated": null,
     "index_name": "中证等权重90指数收益率×95%+同期银行活期存款利率(税后",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.22
+    "premium_prev": -0.08
   },
   {
     "code": "160127",
     "name": "南方新兴消费增长股票(LOF)-A",
     "price": 0.862,
-    "nav_prev": 0.8679,
+    "nav_prev": 0.8611,
     "nav_estimated": null,
     "index_name": "中证内地消费主题指数收益率×55%+中证港股通主要消费综合指",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.68
+    "premium_prev": 0.1
   },
   {
     "code": "163116",
     "name": "申万菱信中证申万电子行业投资指数(LOF)-A",
     "price": 1.965,
-    "nav_prev": 1.949,
+    "nav_prev": 1.9715,
     "nav_estimated": null,
     "index_name": "中证申万电子行业投资指数收益率×95%+银行活期存款利率(税",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.82
+    "premium_prev": -0.33
   },
   {
     "code": "502056",
     "name": "广发中证医疗ETF联接(LOF)-A",
     "price": 0.691,
-    "nav_prev": 0.7142,
+    "nav_prev": 0.6946,
     "nav_estimated": null,
     "index_name": "中证医疗指数收益率×95%+银行活期存款利率(税后)×5%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -3.25
+    "premium_prev": -0.52
   },
   {
     "code": "161121",
     "name": "易方达中证银行ETF联接(LOF)-A",
     "price": 1.628,
-    "nav_prev": 1.6403,
+    "nav_prev": 1.6357,
     "nav_estimated": null,
     "index_name": "中证银行指数收益率×95%+活期存款利率(税后)×5%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.75
+    "premium_prev": -0.47
   },
   {
     "code": "501201",
@@ -2335,23 +2335,23 @@
     "code": "501200",
     "name": "民生加银科技创新混合(LOF)",
     "price": 1.457,
-    "nav_prev": 1.4631,
+    "nav_prev": 1.4606,
     "nav_estimated": null,
     "index_name": "中国战略新兴产业成份指数收益率×60%+中债综合指数收益率×",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.42
+    "premium_prev": -0.25
   },
   {
     "code": "501099",
     "name": "平安新兴产业混合(LOF)",
     "price": 3.154,
-    "nav_prev": 3.1228,
+    "nav_prev": 3.1476,
     "nav_estimated": null,
     "index_name": "恒生指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 1.0
+    "premium_prev": 0.2
   },
   {
     "code": "168701",
@@ -2368,34 +2368,34 @@
     "code": "164508",
     "name": "国富中证A100指数增强(LOF)",
     "price": 1.319,
-    "nav_prev": 1.317,
+    "nav_prev": 1.33,
     "nav_estimated": null,
     "index_name": "中证A100指数收益率×95%+银行同业存款利率×5%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.15
+    "premium_prev": -0.83
   },
   {
     "code": "501098",
     "name": "建信优享科技创新混合(LOF)",
     "price": 1.741,
-    "nav_prev": 1.7629,
+    "nav_prev": 1.7663,
     "nav_estimated": null,
     "index_name": "恒生指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.24
+    "premium_prev": -1.43
   },
   {
     "code": "501096",
     "name": "国联安科技创新混合(LOF)",
     "price": 1.574,
-    "nav_prev": 1.5786,
+    "nav_prev": 1.596,
     "nav_estimated": null,
     "index_name": "中国战略新兴产业成份指数收益率×80%+中证港股通科技指数(",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.29
+    "premium_prev": -1.38
   },
   {
     "code": "501095",
@@ -2445,12 +2445,12 @@
     "code": "161118",
     "name": "易方达中小企业100指数(LOF)-A",
     "price": 1.549,
-    "nav_prev": 1.5518,
+    "nav_prev": 1.5618,
     "nav_estimated": null,
     "index_name": "中小企业100指数收益率×95%+活期存款利率(税后)×5%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.18
+    "premium_prev": -0.82
   },
   {
     "code": "501086",
@@ -2467,12 +2467,12 @@
     "code": "501079",
     "name": "大成科创主题混合(LOF)-A",
     "price": 4.564,
-    "nav_prev": 4.4959,
+    "nav_prev": 4.6161,
     "nav_estimated": null,
     "index_name": "中国战略新兴产业成份指数收益率×90%+中债-国债总全价(1",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 1.51
+    "premium_prev": -1.13
   },
   {
     "code": "501080",
@@ -2489,12 +2489,12 @@
     "code": "501085",
     "name": "财通科创主题灵活配置混合(LOF)-A",
     "price": 3.317,
-    "nav_prev": 3.2867,
+    "nav_prev": 3.3499,
     "nav_estimated": null,
     "index_name": "中国战略新兴产业成份指数收益率×75%+上证国债指数收益率×",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.92
+    "premium_prev": -0.98
   },
   {
     "code": "501083",
@@ -2511,67 +2511,67 @@
     "code": "501081",
     "name": "中欧科创主题混合(LOF)-A",
     "price": 3.034,
-    "nav_prev": 3.0335,
+    "nav_prev": 3.0633,
     "nav_estimated": null,
     "index_name": "恒生指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.02
+    "premium_prev": -0.96
   },
   {
     "code": "501082",
     "name": "博时科创主题灵活配置混合(LOF)-A",
     "price": 3.899,
-    "nav_prev": 3.8871,
+    "nav_prev": 3.9476,
     "nav_estimated": null,
     "index_name": "中国战略新兴产业成份指数收益率×50%+中证港股通综合指数(",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.31
+    "premium_prev": -1.23
   },
   {
     "code": "501075",
     "name": "万家科创主题灵活配置混合(LOF)-A",
     "price": 3.385,
-    "nav_prev": 3.3505,
+    "nav_prev": 3.4003,
     "nav_estimated": null,
     "index_name": "中国战略新兴产业成份指数收益率×50%+中债综合指数收益率×",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 1.03
+    "premium_prev": -0.45
   },
   {
     "code": "501073",
     "name": "华安智联混合(LOF)-A",
     "price": 2.167,
-    "nav_prev": 2.1539,
+    "nav_prev": 2.1719,
     "nav_estimated": null,
     "index_name": "中证800指数收益率×20%+中债综合指数收益率×80%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.61
+    "premium_prev": -0.23
   },
   {
     "code": "501077",
     "name": "富国创新企业灵活配置混合(LOF)-A",
     "price": 3.239,
-    "nav_prev": 3.2118,
+    "nav_prev": 3.2529,
     "nav_estimated": null,
     "index_name": "中证TMT产业主题指数收益率×60%+中证全债指数收益率×4",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.85
+    "premium_prev": -0.43
   },
   {
     "code": "501078",
     "name": "广发科创主题灵活配置混合(LOF)",
     "price": 2.973,
-    "nav_prev": 2.9468,
+    "nav_prev": 3.0017,
     "nav_estimated": null,
     "index_name": "中国战略新兴产业成份指数收益率×60%+中债综合财富(总值)",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.89
+    "premium_prev": -0.96
   },
   {
     "code": "501072",
@@ -2588,34 +2588,34 @@
     "code": "501071",
     "name": "泓德丰泽混合(LOF)-A",
     "price": 0.968,
-    "nav_prev": 0.9716,
+    "nav_prev": 0.9662,
     "nav_estimated": null,
     "index_name": "中证800指数收益率×70%+中国债券综合全价指数收益率×3",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.37
+    "premium_prev": 0.19
   },
   {
     "code": "160925",
     "name": "大成中华沪深港300指数(LOF)-A",
     "price": 1.323,
-    "nav_prev": 1.3153,
+    "nav_prev": 1.3255,
     "nav_estimated": null,
     "index_name": "中华交易服务沪深港300指数(人民币)收益率×95%+人民币",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.59
+    "premium_prev": -0.19
   },
   {
     "code": "161019",
     "name": "富国新天锋债券(LOF)-A",
     "price": 1.223,
-    "nav_prev": 1.2198,
+    "nav_prev": 1.2196,
     "nav_estimated": null,
     "index_name": "中债-高等级信用债财富(0-5年)指数收益率×60%+中债-",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.26
+    "premium_prev": 0.28
   },
   {
     "code": "501069",
@@ -2676,78 +2676,78 @@
     "code": "501310",
     "name": "华宝标普沪港深中国增强价值指数(LOF)-A",
     "price": 1.329,
-    "nav_prev": 1.3258,
+    "nav_prev": 1.3336,
     "nav_estimated": null,
     "index_name": "标普沪港深中国增强价值指数收益率×95%+人民币银行活期存款",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.24
+    "premium_prev": -0.34
   },
   {
     "code": "501060",
     "name": "中金中证优选300指数(LOF)-A",
     "price": 2.372,
-    "nav_prev": 2.3727,
+    "nav_prev": 2.3765,
     "nav_estimated": null,
     "index_name": "中证中金优选300指数收益率×95%+银行活期存款利率(税后",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.03
+    "premium_prev": -0.19
   },
   {
     "code": "501061",
     "name": "中金中证优选300指数(LOF)-C",
     "price": 2.32,
-    "nav_prev": 2.3217,
+    "nav_prev": 2.3254,
     "nav_estimated": null,
     "index_name": "中证中金优选300指数收益率×95%+银行活期存款利率(税后",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.07
+    "premium_prev": -0.23
   },
   {
     "code": "501059",
     "name": "西部利得中证国有企业红利指数增强(LOF)-A",
     "price": 2.262,
-    "nav_prev": 2.2897,
+    "nav_prev": 2.2801,
     "nav_estimated": null,
     "index_name": "中证国有企业红利指数收益率×90%+商业银行活期存款利率(税",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.21
+    "premium_prev": -0.79
   },
   {
     "code": "164824",
     "name": "工银瑞信印度市场(QDII-LOF-FOF)-CNY",
     "price": 1.303,
-    "nav_prev": 1.3109,
+    "nav_prev": 1.3132,
     "nav_estimated": null,
     "index_name": "中信证券印度ETP指数收益率×90%+人民币活期存款收益率(",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.6
+    "premium_prev": -0.78
   },
   {
     "code": "501057",
     "name": "汇添富中证新能源汽车产业指数(LOF)-A",
     "price": 2.182,
-    "nav_prev": 2.1606,
+    "nav_prev": 2.1936,
     "nav_estimated": null,
     "index_name": "中证新能源汽车产业指数收益率×95%+银行人民币活期存款利率",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.99
+    "premium_prev": -0.53
   },
   {
     "code": "501058",
     "name": "汇添富中证新能源汽车产业指数(LOF)-C",
     "price": 2.142,
-    "nav_prev": 2.1142,
+    "nav_prev": 2.1464,
     "nav_estimated": null,
     "index_name": "中证新能源汽车产业指数收益率×95%+银行人民币活期存款利率",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 1.31
+    "premium_prev": -0.2
   },
   {
     "code": "501307",
@@ -2797,56 +2797,56 @@
     "code": "501047",
     "name": "汇添富中证全指证券公司ETF联接(LOF)-A",
     "price": 1.087,
-    "nav_prev": 1.0863,
+    "nav_prev": 1.0877,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证全指证券公司指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.06
+    "premium_prev": -0.06
   },
   {
     "code": "501048",
     "name": "汇添富中证全指证券公司ETF联接(LOF)-C",
     "price": 1.072,
-    "nav_prev": 1.075,
+    "nav_prev": 1.0763,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证全指证券公司指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.28
+    "premium_prev": -0.4
   },
   {
     "code": "161727",
     "name": "招商增荣灵活配置混合(LOF)",
     "price": 1.75,
-    "nav_prev": 1.762,
+    "nav_prev": 1.761,
     "nav_estimated": null,
     "index_name": "中证800指数收益率×50%+中债-综合全价(总值)指数收益",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.68
+    "premium_prev": -0.62
   },
   {
     "code": "501305",
     "name": "汇添富中证港股通高股息投资ETF联接(LOF)-A",
     "price": 1.324,
-    "nav_prev": 1.3139,
+    "nav_prev": 1.3347,
     "nav_estimated": null,
     "index_name": "中证港股通高股息投资指数收益率(经估值汇率调整后)×95%+",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.77
+    "premium_prev": -0.8
   },
   {
     "code": "501306",
     "name": "汇添富中证港股通高股息投资ETF联接(LOF)-C",
     "price": 1.276,
-    "nav_prev": 1.2678,
+    "nav_prev": 1.2878,
     "nav_estimated": null,
     "index_name": "中证港股通高股息投资指数收益率(经估值汇率调整后)×95%+",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.65
+    "premium_prev": -0.92
   },
   {
     "code": "160644",
@@ -2874,23 +2874,23 @@
     "code": "160140",
     "name": "南方道琼斯美国精选REIT指数(QDII-LOF)-A",
     "price": 1.453,
-    "nav_prev": 1.4602,
+    "nav_prev": 1.4617,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+道琼斯美国精选REIT指数×95",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.49
+    "premium_prev": -0.6
   },
   {
     "code": "501303",
     "name": "广发港股通恒生综合中型股指数(LOF)-A",
     "price": 0.984,
-    "nav_prev": 0.9779,
+    "nav_prev": 0.9935,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+恒生综合中型股指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.62
+    "premium_prev": -0.96
   },
   {
     "code": "164823",
@@ -2907,45 +2907,45 @@
     "code": "160924",
     "name": "大成恒生指数(QDII-LOF)-A",
     "price": 1.021,
-    "nav_prev": 1.0176,
+    "nav_prev": 1.0294,
     "nav_estimated": null,
     "index_name": "恒生指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.33
+    "premium_prev": -0.82
   },
   {
     "code": "501036",
     "name": "汇添富中证500ETF联接(LOF)-A",
     "price": 1.51,
-    "nav_prev": 1.5103,
+    "nav_prev": 1.5112,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证小盘500指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.02
+    "premium_prev": -0.08
   },
   {
     "code": "501037",
     "name": "汇添富中证500ETF联接(LOF)-C",
     "price": 1.471,
-    "nav_prev": 1.4802,
+    "nav_prev": 1.4811,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证小盘500指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.62
+    "premium_prev": -0.68
   },
   {
     "code": "161038",
     "name": "富国新兴成长量化精选混合(LOF)-A",
     "price": 1.665,
-    "nav_prev": 1.6578,
+    "nav_prev": 1.6721,
     "nav_estimated": null,
     "index_name": "中国战略新兴产业综合指数收益率×90%+中债-国债总全价(1",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.43
+    "premium_prev": -0.42
   },
   {
     "code": "501302",
@@ -2973,23 +2973,23 @@
     "code": "161715",
     "name": "招商中证大宗商品股票指数(LOF)",
     "price": 2.27,
-    "nav_prev": 2.2567,
+    "nav_prev": 2.2807,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证大宗商品股票指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.59
+    "premium_prev": -0.47
   },
   {
     "code": "161130",
     "name": "易方达纳斯达克100ETF联接(QDII-LOF)-A-CNY",
     "price": 4.627,
-    "nav_prev": 4.4381,
+    "nav_prev": 4.4053,
     "nav_estimated": null,
     "index_name": "纳斯达克100指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 4.26
+    "premium_prev": 5.03
   },
   {
     "code": "160643",
@@ -3017,12 +3017,12 @@
     "code": "161037",
     "name": "富国中证高端制造指数增强(LOF)-A",
     "price": 2.851,
-    "nav_prev": 2.8513,
+    "nav_prev": 2.8739,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证高端制造主题指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.01
+    "premium_prev": -0.8
   },
   {
     "code": "501016",
@@ -3061,23 +3061,23 @@
     "code": "160723",
     "name": "嘉实原油(QDII-LOF-FOF)",
     "price": 2.1,
-    "nav_prev": 2.0658,
+    "nav_prev": 2.0967,
     "nav_estimated": null,
     "index_name": "WTI原油价格收益率×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 1.66
+    "premium_prev": 0.16
   },
   {
     "code": "501301",
     "name": "华宝港股通恒生中国(香港上市)30ETF联接(LOF)-A",
     "price": 1.238,
-    "nav_prev": 1.2423,
+    "nav_prev": 1.2522,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+恒生中国(香港上市)30指数×9",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.35
+    "premium_prev": -1.13
   },
   {
     "code": "160422",
@@ -3094,12 +3094,12 @@
     "code": "161631",
     "name": "融通中证人工智能主题指数(LOF)-A",
     "price": 2.784,
-    "nav_prev": 2.7514,
+    "nav_prev": 2.7844,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证人工智能主题指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 1.18
+    "premium_prev": -0.01
   },
   {
     "code": "501019",
@@ -3127,12 +3127,12 @@
     "code": "161036",
     "name": "富国中证娱乐主题指数增强(LOF)-A",
     "price": 0.639,
-    "nav_prev": 0.648,
+    "nav_prev": 0.6433,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证娱乐主题指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.39
+    "premium_prev": -0.67
   },
   {
     "code": "164509",
@@ -3149,155 +3149,155 @@
     "code": "162719",
     "name": "广发道琼斯美国石油开发与生产指数(QDII-LOF)-A-CNY",
     "price": 3.052,
-    "nav_prev": 3.0412,
+    "nav_prev": 3.0645,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+道琼斯美国石油开发与生产指数×9",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.36
+    "premium_prev": -0.41
   },
   {
     "code": "501029",
     "name": "华宝标普中国A股红利机会ETF联接(LOF)-A",
     "price": 1.75,
-    "nav_prev": 1.7639,
+    "nav_prev": 1.7465,
     "nav_estimated": null,
     "index_name": "标普中国A股红利机会指数收益率×95%+同期银行活期存款利率",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.79
+    "premium_prev": 0.2
   },
   {
     "code": "501011",
     "name": "汇添富中证中药ETF联接(LOF)-A",
     "price": 1.011,
-    "nav_prev": 1.0443,
+    "nav_prev": 1.0081,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证中药指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -3.19
+    "premium_prev": 0.29
   },
   {
     "code": "501012",
     "name": "汇添富中证中药ETF联接(LOF)-C",
     "price": 0.976,
-    "nav_prev": 1.01,
+    "nav_prev": 0.975,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证中药指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -3.37
+    "premium_prev": 0.1
   },
   {
     "code": "501030",
     "name": "汇添富中证环境治理指数(LOF)-A",
     "price": 0.532,
-    "nav_prev": 0.5321,
+    "nav_prev": 0.532,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证环境治理指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.02
+    "premium_prev": 0.0
   },
   {
     "code": "501031",
     "name": "汇添富中证环境治理指数(LOF)-C",
     "price": 0.523,
-    "nav_prev": 0.5177,
+    "nav_prev": 0.5176,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证环境治理指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 1.02
+    "premium_prev": 1.04
   },
   {
     "code": "501007",
     "name": "汇添富中证互联网医疗主题指数(LOF)-A",
     "price": 0.813,
-    "nav_prev": 0.8332,
+    "nav_prev": 0.8168,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证互联网医疗主题指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -2.42
+    "premium_prev": -0.47
   },
   {
     "code": "501008",
     "name": "汇添富中证互联网医疗主题指数(LOF)-C",
     "price": 0.786,
-    "nav_prev": 0.8053,
+    "nav_prev": 0.7895,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证互联网医疗主题指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -2.4
+    "premium_prev": -0.44
   },
   {
     "code": "501009",
     "name": "汇添富中证生物科技主题指数(LOF)-A",
     "price": 1.303,
-    "nav_prev": 1.3531,
+    "nav_prev": 1.3051,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证生物科技主题指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -3.7
+    "premium_prev": -0.16
   },
   {
     "code": "501010",
     "name": "汇添富中证生物科技主题指数(LOF)-C",
     "price": 1.271,
-    "nav_prev": 1.3214,
+    "nav_prev": 1.2745,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证生物科技主题指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -3.81
+    "premium_prev": -0.27
   },
   {
     "code": "161129",
     "name": "易方达原油(QDII-LOF-FOF)-A-CNY",
     "price": 1.821,
-    "nav_prev": 1.7267,
+    "nav_prev": 1.7538,
     "nav_estimated": null,
     "index_name": "标普高盛原油商品指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 5.46
+    "premium_prev": 3.83
   },
   {
     "code": "161127",
     "name": "易方达标普生物科技指数(QDII-LOF)-A-CNY",
     "price": 2.17,
-    "nav_prev": 2.2372,
+    "nav_prev": 2.1574,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+标普生物科技精选行业指数收益率(",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -3.0
+    "premium_prev": 0.58
   },
   {
     "code": "161128",
     "name": "易方达标普信息科技指数(QDII-LOF)-A-CNY",
     "price": 6.913,
-    "nav_prev": 6.6711,
+    "nav_prev": 6.6431,
     "nav_estimated": null,
     "index_name": "标普500指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 3.63
+    "premium_prev": 4.06
   },
   {
     "code": "161626",
     "name": "融通通福债券(LOF)-A",
     "price": 1.07,
-    "nav_prev": 1.0638,
+    "nav_prev": 1.06,
     "nav_estimated": null,
     "index_name": "中债-综合指数-全价指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.58
+    "premium_prev": 0.94
   },
   {
     "code": "164815",
@@ -3325,45 +3325,45 @@
     "code": "161125",
     "name": "易方达标普500指数(QDII-LOF)-A-CNY",
     "price": 3.244,
-    "nav_prev": 3.1671,
+    "nav_prev": 3.1393,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+标准普尔500指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 2.43
+    "premium_prev": 3.34
   },
   {
     "code": "161126",
     "name": "易方达标普医疗保健指数(QDII-LOF)-A-CNY",
     "price": 2.159,
-    "nav_prev": 2.1998,
+    "nav_prev": 2.1514,
     "nav_estimated": null,
     "index_name": "标普500指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.85
+    "premium_prev": 0.35
   },
   {
     "code": "501300",
     "name": "海富通全球美元收益债券(QDII-LOF)-CNY",
     "price": 0.929,
-    "nav_prev": 0.9394,
+    "nav_prev": 0.9371,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×10%+巴克莱资本美国综合债券指数收益",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.11
+    "premium_prev": -0.86
   },
   {
     "code": "160322",
     "name": "华夏港股通精选股票(LOF)-A",
     "price": 1.072,
-    "nav_prev": 1.0713,
+    "nav_prev": 1.0826,
     "nav_estimated": null,
     "index_name": "恒生综合指数收益率×90%+同期人民币活期存款利率×10%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.07
+    "premium_prev": -0.98
   },
   {
     "code": "501025",
@@ -3380,23 +3380,23 @@
     "code": "164703",
     "name": "汇添富纯债债券(LOF)-A",
     "price": 0.874,
-    "nav_prev": 0.8728,
+    "nav_prev": 0.8727,
     "nav_estimated": null,
     "index_name": "中债综合指数收益率×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.14
+    "premium_prev": 0.15
   },
   {
     "code": "161124",
     "name": "易方达香港恒生综合小型股指数(QDII-LOF)-A",
     "price": 0.898,
-    "nav_prev": 0.895,
+    "nav_prev": 0.9053,
     "nav_estimated": null,
     "index_name": "恒生综合小型股指数收益率(使用估值汇率折算)×95%+活期存",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.34
+    "premium_prev": -0.81
   },
   {
     "code": "163119",
@@ -3424,12 +3424,12 @@
     "code": "164814",
     "name": "工银瑞信双债增强债券(LOF)",
     "price": 1.078,
-    "nav_prev": 1.071,
+    "nav_prev": 1.068,
     "nav_estimated": null,
     "index_name": "中证智选可转换债券流动性策略指数收益率×80%+中债综合财富",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.65
+    "premium_prev": 0.94
   },
   {
     "code": "164210",
@@ -3468,12 +3468,12 @@
     "code": "164403",
     "name": "前海开源沪港深农业主题精选灵活配置混合(LOF)-A",
     "price": 0.93,
-    "nav_prev": 0.9425,
+    "nav_prev": 0.9352,
     "nav_estimated": null,
     "index_name": "恒生指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.33
+    "premium_prev": -0.56
   },
   {
     "code": "160225",
@@ -3490,34 +3490,34 @@
     "code": "163003",
     "name": "长信利鑫债券(LOF)-C",
     "price": 0.672,
-    "nav_prev": 0.6729,
+    "nav_prev": 0.6728,
     "nav_estimated": null,
     "index_name": "中债综合指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.13
+    "premium_prev": -0.12
   },
   {
     "code": "501021",
     "name": "华宝港股通标普香港上市中国中小盘指数(LOF)-A",
     "price": 1.363,
-    "nav_prev": 1.353,
+    "nav_prev": 1.3747,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+标普香港上市中国中小盘指数×95",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.74
+    "premium_prev": -0.85
   },
   {
     "code": "501018",
     "name": "南方原油(QDII-LOF-FOF)-A",
     "price": 1.858,
-    "nav_prev": 1.8127,
+    "nav_prev": 1.8341,
     "nav_estimated": null,
     "index_name": "WTI原油价格收益率×60%+BRENT原油价格收益率×40",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 2.5
+    "premium_prev": 1.3
   },
   {
     "code": "162215",
@@ -3556,12 +3556,12 @@
     "code": "162415",
     "name": "华宝标普美国品质消费股票指数(QDII-LOF)-A-CNY",
     "price": 2.855,
-    "nav_prev": 2.908,
+    "nav_prev": 2.862,
     "nav_estimated": null,
     "index_name": "经人民币汇率调整的标普美国品质消费股票指数收益率×95%+人",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.82
+    "premium_prev": -0.24
   },
   {
     "code": "164812",
@@ -3589,23 +3589,23 @@
     "code": "163005",
     "name": "长信利众债券(LOF)-C",
     "price": 1.025,
-    "nav_prev": 1.0301,
+    "nav_prev": 1.0298,
     "nav_estimated": null,
     "index_name": "中债-综合指数-全价指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.5
+    "premium_prev": -0.47
   },
   {
     "code": "166016",
     "name": "中欧纯债债券(LOF)-C",
     "price": 1.128,
-    "nav_prev": 1.1271,
+    "nav_prev": 1.127,
     "nav_estimated": null,
     "index_name": "中债-优选投资级信用债全价(总值)指数收益率×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.08
+    "premium_prev": 0.09
   },
   {
     "code": "501002",
@@ -3633,12 +3633,12 @@
     "code": "501005",
     "name": "汇添富中证精准医疗主题指数(LOF)-A",
     "price": 1.125,
-    "nav_prev": 1.1714,
+    "nav_prev": 1.1235,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证精准医疗主题指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -3.96
+    "premium_prev": 0.13
   },
   {
     "code": "161823",
@@ -3666,23 +3666,23 @@
     "code": "161229",
     "name": "国投瑞银中国价值发现股票(QDII-LOF)",
     "price": 1.384,
-    "nav_prev": 1.3993,
+    "nav_prev": 1.407,
     "nav_estimated": null,
     "index_name": "一年定期存款利率(税后)×5%+MSCI中国指数(MSCI ",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.09
+    "premium_prev": -1.63
   },
   {
     "code": "164206",
     "name": "天弘添利债券(LOF)-C",
     "price": 1.657,
-    "nav_prev": 1.6589,
+    "nav_prev": 1.6573,
     "nav_estimated": null,
     "index_name": "中债-总指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.11
+    "premium_prev": -0.02
   },
   {
     "code": "160621",
@@ -3699,12 +3699,12 @@
     "code": "161226",
     "name": "国投瑞银白银期货(LOF)-A",
     "price": 1.984,
-    "nav_prev": 1.8224,
+    "nav_prev": 1.878,
     "nav_estimated": null,
     "index_name": "上海期货交易所白银期货主力合约收益率×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 8.87
+    "premium_prev": 5.64
   },
   {
     "code": "167501",
@@ -3732,56 +3732,56 @@
     "code": "162414",
     "name": "华宝新机遇灵活配置混合(LOF)-A",
     "price": 1.941,
-    "nav_prev": 1.9511,
+    "nav_prev": 1.9539,
     "nav_estimated": null,
     "index_name": "一年定期存款利率(税后)×100%+3%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.52
+    "premium_prev": -0.66
   },
   {
     "code": "164906",
     "name": "交银中证海外中国互联网指数(QDII-LOF)-A",
     "price": 0.953,
-    "nav_prev": 0.962,
+    "nav_prev": 0.9512,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证海外中国互联网指数(人民币)",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.94
+    "premium_prev": 0.19
   },
   {
     "code": "160125",
     "name": "南方香港优选股票(QDII-LOF)",
     "price": 1.593,
-    "nav_prev": 1.5766,
+    "nav_prev": 1.5894,
     "nav_estimated": null,
     "index_name": "恒生指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 1.04
+    "premium_prev": 0.23
   },
   {
     "code": "161722",
     "name": "招商丰泰灵活配置混合(LOF)",
     "price": 1.526,
-    "nav_prev": 1.542,
+    "nav_prev": 1.545,
     "nav_estimated": null,
     "index_name": "一年定期存款利率(税后)×100%+3%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.04
+    "premium_prev": -1.23
   },
   {
     "code": "166006",
     "name": "中欧行业成长混合(LOF)-A",
     "price": 2.444,
-    "nav_prev": 2.4505,
+    "nav_prev": 2.4585,
     "nav_estimated": null,
     "index_name": "中证800指数收益率×90%+中债-综合全价(总值)指数收益",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.27
+    "premium_prev": -0.59
   },
   {
     "code": "163827",
@@ -3798,12 +3798,12 @@
     "code": "160918",
     "name": "大成中小盘混合(LOF)-A",
     "price": 2.6,
-    "nav_prev": 2.6172,
+    "nav_prev": 2.5942,
     "nav_estimated": null,
     "index_name": "恒生指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.66
+    "premium_prev": 0.22
   },
   {
     "code": "160131",
@@ -3820,12 +3820,12 @@
     "code": "160515",
     "name": "博时安丰18个月定开债券(LOF)-A",
     "price": 1.034,
-    "nav_prev": 1.0373,
+    "nav_prev": 1.0371,
     "nav_estimated": null,
     "index_name": "一年定期存款利率(税后)×150%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.32
+    "premium_prev": -0.3
   },
   {
     "code": "163824",
@@ -3842,12 +3842,12 @@
     "code": "162715",
     "name": "广发聚源债券(LOF)-A",
     "price": 1.193,
-    "nav_prev": 1.1929,
+    "nav_prev": 1.1927,
     "nav_estimated": null,
     "index_name": "中债-总指数-全价指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.01
+    "premium_prev": 0.03
   },
   {
     "code": "162108",
@@ -3897,12 +3897,12 @@
     "code": "161716",
     "name": "招商双债增强债券(LOF)-C",
     "price": 1.655,
-    "nav_prev": 1.6565,
+    "nav_prev": 1.6562,
     "nav_estimated": null,
     "index_name": "天相转债指数×40%+中债-综合指数×60%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.09
+    "premium_prev": -0.07
   },
   {
     "code": "150127",
@@ -3963,12 +3963,12 @@
     "code": "161119",
     "name": "易方达中债新综合债券指数(LOF)-A",
     "price": 1.803,
-    "nav_prev": 1.8014,
+    "nav_prev": 1.8011,
     "nav_estimated": null,
     "index_name": "中债-新综合指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.09
+    "premium_prev": 0.11
   },
   {
     "code": "161820",
@@ -3996,12 +3996,12 @@
     "code": "160806",
     "name": "长盛同庆中证800指数(LOF)-A",
     "price": 2.094,
-    "nav_prev": 2.0944,
+    "nav_prev": 2.1075,
     "nav_estimated": null,
     "index_name": "中证800指数收益率×95%+一年期银行定期存款利率(税后)",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.02
+    "premium_prev": -0.64
   },
   {
     "code": "150098",
@@ -4029,12 +4029,12 @@
     "code": "160216",
     "name": "国泰大宗商品配置(QDII-LOF-FOF)-A",
     "price": 0.663,
-    "nav_prev": 0.661,
+    "nav_prev": 0.668,
     "nav_estimated": null,
     "index_name": "国泰大宗商品配置指数(全收益指数)×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.3
+    "premium_prev": -0.75
   },
   {
     "code": "161505",
@@ -4095,12 +4095,12 @@
     "code": "160416",
     "name": "华安标普全球石油指数(QDII-LOF)-A",
     "price": 2.202,
-    "nav_prev": 2.2055,
+    "nav_prev": 2.2225,
     "nav_estimated": null,
     "index_name": "标普全球石油净总收益指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.16
+    "premium_prev": -0.92
   },
   {
     "code": "150069",
@@ -4139,23 +4139,23 @@
     "code": "163819",
     "name": "中银信用增利债券(LOF)-A",
     "price": 1.212,
-    "nav_prev": 1.205,
+    "nav_prev": 1.2049,
     "nav_estimated": null,
     "index_name": "中债-国债总指数-全价指数×20%+中债-企业债总指数-全价",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.58
+    "premium_prev": 0.59
   },
   {
     "code": "161614",
     "name": "融通四季添利债券(LOF)-A",
     "price": 1.126,
-    "nav_prev": 1.1262,
+    "nav_prev": 1.1259,
     "nav_estimated": null,
     "index_name": "中债-综合指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.02
+    "premium_prev": 0.01
   },
   {
     "code": "165705",
@@ -4183,23 +4183,23 @@
     "code": "165513",
     "name": "中信保诚全球商品主题(QDII-LOF-FOF)-A",
     "price": 1.061,
-    "nav_prev": 1.0559,
+    "nav_prev": 1.0612,
     "nav_estimated": null,
     "index_name": "中证CME中国商品消费指数(人民币)收益率×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.48
+    "premium_prev": -0.02
   },
   {
     "code": "161219",
     "name": "国投瑞银新兴产业混合(LOF)-A",
     "price": 3.199,
-    "nav_prev": 3.25,
+    "nav_prev": 3.2256,
     "nav_estimated": null,
     "index_name": "中债-总指数×45%+中证新兴产业指数×55%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.57
+    "premium_prev": -0.82
   },
   {
     "code": "150062",
@@ -4227,12 +4227,12 @@
     "code": "166401",
     "name": "浦银稳健增利债券(LOF)-C",
     "price": 1.142,
-    "nav_prev": 1.1431,
+    "nav_prev": 1.1429,
     "nav_estimated": null,
     "index_name": "中债综合(全价)指数收益率×85%+中证可转换债券指数收益率",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.1
+    "premium_prev": -0.08
   },
   {
     "code": "160618",
@@ -4260,12 +4260,12 @@
     "code": "164208",
     "name": "天弘丰利债券(LOF)-E",
     "price": 1.417,
-    "nav_prev": 1.4133,
+    "nav_prev": 1.4128,
     "nav_estimated": null,
     "index_name": "中债-综合指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.26
+    "premium_prev": 0.3
   },
   {
     "code": "150046",
@@ -4282,89 +4282,89 @@
     "code": "161017",
     "name": "富国中证500指数增强(LOF)-A",
     "price": 2.548,
-    "nav_prev": 2.56,
+    "nav_prev": 2.567,
     "nav_estimated": null,
     "index_name": "中证小盘500指数×95%+1%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.47
+    "premium_prev": -0.74
   },
   {
     "code": "162411",
     "name": "华宝标普石油天然气上游股票指数(QDII-LOF)-A-CNY",
     "price": 0.98,
-    "nav_prev": 0.979,
+    "nav_prev": 0.9842,
     "nav_estimated": null,
     "index_name": "标普石油天然气上游股票指数(全收益指数)×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.1
+    "premium_prev": -0.43
   },
   {
     "code": "163208",
     "name": "诺安油气能源股票(QDII-LOF-FOF)",
     "price": 1.401,
-    "nav_prev": 1.401,
+    "nav_prev": 1.409,
     "nav_estimated": null,
     "index_name": "标普能源行业指数(净收益)×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.0
+    "premium_prev": -0.57
   },
   {
     "code": "164606",
     "name": "华泰柏瑞信用增利债券(LOF)-A",
     "price": 1.244,
-    "nav_prev": 1.2465,
+    "nav_prev": 1.2462,
     "nav_estimated": null,
     "index_name": "中债综合指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.2
+    "premium_prev": -0.18
   },
   {
     "code": "164701",
     "name": "汇添富黄金及贵金属(QDII-LOF-FOF)-A",
     "price": 1.766,
-    "nav_prev": 1.756,
+    "nav_prev": 1.76,
     "nav_estimated": null,
     "index_name": "伦敦金价格折成人民币后的收益率×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.57
+    "premium_prev": 0.34
   },
   {
     "code": "162712",
     "name": "广发聚利债券(LOF)-A",
     "price": 1.421,
-    "nav_prev": 1.4205,
+    "nav_prev": 1.42,
     "nav_estimated": null,
     "index_name": "中证全债指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.04
+    "premium_prev": 0.07
   },
   {
     "code": "160719",
     "name": "嘉实黄金(QDII-LOF-FOF)",
     "price": 2.013,
-    "nav_prev": 1.999,
+    "nav_prev": 2.008,
     "nav_estimated": null,
     "index_name": "伦敦金价格折成人民币后的收益率×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.7
+    "premium_prev": 0.25
   },
   {
     "code": "161217",
     "name": "国投瑞银中证上游资源产业指数(LOF)-A",
     "price": 2.308,
-    "nav_prev": 2.278,
+    "nav_prev": 2.3252,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证上游资源产业指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 1.32
+    "premium_prev": -0.74
   },
   {
     "code": "163110",
@@ -4381,12 +4381,12 @@
     "code": "165311",
     "name": "建信信用增强债券(LOF)-A",
     "price": 1.735,
-    "nav_prev": 1.7398,
+    "nav_prev": 1.7393,
     "nav_estimated": null,
     "index_name": "中国债券总指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.28
+    "premium_prev": -0.25
   },
   {
     "code": "150043",
@@ -4403,12 +4403,12 @@
     "code": "160513",
     "name": "博时稳健回报债券(LOF)-A",
     "price": 2.214,
-    "nav_prev": 2.2139,
+    "nav_prev": 2.2134,
     "nav_estimated": null,
     "index_name": "中证全债指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.0
+    "premium_prev": 0.03
   },
   {
     "code": "150038",
@@ -4425,23 +4425,23 @@
     "code": "161908",
     "name": "万家添利债券(LOF)-C",
     "price": 1.22,
-    "nav_prev": 1.2156,
+    "nav_prev": 1.2149,
     "nav_estimated": null,
     "index_name": "中债-总指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.36
+    "premium_prev": 0.42
   },
   {
     "code": "161015",
     "name": "富国天盈债券(LOF)-C",
     "price": 1.309,
-    "nav_prev": 1.3099,
+    "nav_prev": 1.3101,
     "nav_estimated": null,
     "index_name": "中债-综合指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.07
+    "premium_prev": -0.08
   },
   {
     "code": "150041",
@@ -4469,34 +4469,34 @@
     "code": "163409",
     "name": "兴全绿色投资混合(LOF)",
     "price": 1.521,
-    "nav_prev": 1.514,
+    "nav_prev": 1.53,
     "nav_estimated": null,
     "index_name": "中证兴业证券ESG盈利100指数收益率×80%+中证国债指数",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.46
+    "premium_prev": -0.59
   },
   {
     "code": "161116",
     "name": "易方达黄金主题(QDII-LOF-FOF)-A-CNY",
     "price": 1.68,
-    "nav_prev": 1.6656,
+    "nav_prev": 1.6712,
     "nav_estimated": null,
     "index_name": "伦敦黄金市场下午定盘价计价的国际现货黄金×50%+MSCI全",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.86
+    "premium_prev": 0.53
   },
   {
     "code": "161216",
     "name": "国投瑞银双债增利债券(LOF)-A",
     "price": 1.392,
-    "nav_prev": 1.3894,
+    "nav_prev": 1.389,
     "nav_estimated": null,
     "index_name": "标普中国可转债指数×45%+中债-国债总指数×10%+中债-",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.19
+    "premium_prev": 0.22
   },
   {
     "code": "161714",
@@ -4524,12 +4524,12 @@
     "code": "164902",
     "name": "交银信用添利债券(LOF)-A",
     "price": 1.171,
-    "nav_prev": 1.1605,
+    "nav_prev": 1.1604,
     "nav_estimated": null,
     "index_name": "中债-国债总指数-全价指数×20%+中债-企业债总指数-全价",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.9
+    "premium_prev": 0.91
   },
   {
     "code": "165510",
@@ -4557,12 +4557,12 @@
     "code": "161815",
     "name": "银华抗通胀主题(QDII-LOF-FOF)-A",
     "price": 1.101,
-    "nav_prev": 1.099,
+    "nav_prev": 1.106,
     "nav_estimated": null,
     "index_name": "标普高盛商品总指数收益率×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.18
+    "premium_prev": -0.45
   },
   {
     "code": "160617",
@@ -4579,23 +4579,23 @@
     "code": "166008",
     "name": "中欧增强回报债券(LOF)-A",
     "price": 1.146,
-    "nav_prev": 1.1483,
+    "nav_prev": 1.1484,
     "nav_estimated": null,
     "index_name": "中债-1-5年债券综合全价(总值)指数收益率×90%+中证可",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.2
+    "premium_prev": -0.21
   },
   {
     "code": "161115",
     "name": "易方达岁丰添利债券(LOF)-A",
     "price": 1.756,
-    "nav_prev": 1.756,
+    "nav_prev": 1.7551,
     "nav_estimated": null,
     "index_name": "中债新综合财富指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.0
+    "premium_prev": 0.05
   },
   {
     "code": "160915",
@@ -4700,12 +4700,12 @@
     "code": "161713",
     "name": "招商信用添利债券(LOF)-A",
     "price": 1.072,
-    "nav_prev": 1.0659,
+    "nav_prev": 1.0652,
     "nav_estimated": null,
     "index_name": "中债-高等级信用债财富(总值)指数收益率×85%+中证可转换",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.57
+    "premium_prev": 0.64
   },
   {
     "code": "161210",
@@ -4733,56 +4733,56 @@
     "code": "162307",
     "name": "海富通中证A100指数(LOF)-A",
     "price": 1.563,
-    "nav_prev": 1.5539,
+    "nav_prev": 1.5657,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证A100指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.59
+    "premium_prev": -0.17
   },
   {
     "code": "160119",
     "name": "南方中证500ETF联接(LOF)-A",
     "price": 2.22,
-    "nav_prev": 2.2297,
+    "nav_prev": 2.2309,
     "nav_estimated": null,
     "index_name": "活期存款利率(税后)×5%+中证小盘500指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.44
+    "premium_prev": -0.49
   },
   {
     "code": "161010",
     "name": "富国天丰强化收益债券(LOF)-A",
     "price": 1.189,
-    "nav_prev": 1.1915,
+    "nav_prev": 1.1924,
     "nav_estimated": null,
     "index_name": "中债-0-10年国债及政策性金融债财富(总值)指数收益率×7",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.21
+    "premium_prev": -0.29
   },
   {
     "code": "160314",
     "name": "华夏行业精选混合(LOF)",
     "price": 1.388,
-    "nav_prev": 1.387,
+    "nav_prev": 1.4,
     "nav_estimated": null,
     "index_name": "中证800成长指数收益率×85%+上证国债指数收益率×15%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.07
+    "premium_prev": -0.86
   },
   {
     "code": "166001",
     "name": "中欧新趋势混合(LOF)-A",
     "price": 1.658,
-    "nav_prev": 1.6509,
+    "nav_prev": 1.6606,
     "nav_estimated": null,
     "index_name": "富时中国A600指数×80%+富时中国国债指数(FTSE C",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.43
+    "premium_prev": -0.16
   },
   {
     "code": "160610",
@@ -4810,44 +4810,44 @@
     "code": "160106",
     "name": "南方高增长混合(LOF)",
     "price": 1.597,
-    "nav_prev": 1.6069,
+    "nav_prev": 1.5817,
     "nav_estimated": null,
     "index_name": "上海证券交易所综合指数×90%+上海证券交易所国债指数×10",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -0.62
+    "premium_prev": 0.97
   },
   {
     "code": "161607",
     "name": "融通巨潮100指数(LOF)-A/B",
     "price": 1.181,
-    "nav_prev": 1.179,
+    "nav_prev": 1.186,
     "nav_estimated": null,
     "index_name": "同业存款利息率×5%+巨潮100指数×95%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.17
+    "premium_prev": -0.42
   },
   {
     "code": "162703",
     "name": "广发小盘成长混合(LOF)-A",
     "price": 2.368,
-    "nav_prev": 2.3542,
+    "nav_prev": 2.3703,
     "nav_estimated": null,
     "index_name": "天相小市值指数×100%",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 0.59
+    "premium_prev": -0.1
   },
   {
     "code": "160105",
     "name": "南方积极配置混合(LOF)",
     "price": 1.315,
-    "nav_prev": 1.3362,
+    "nav_prev": 1.3157,
     "nav_estimated": null,
     "index_name": "上海证券交易所综合指数×85%+上海证券交易所国债指数×15",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.59
+    "premium_prev": -0.05
   }
 ]
