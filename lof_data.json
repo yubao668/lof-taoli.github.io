@@ -4383,7 +4383,7 @@
     "price": 1.735,
     "nav_prev": 1.7396,
     "nav_estimated": null,
-    "index_name": "中国债券总指数×100%",
+    "index_name": "中债-高等级信用债财富(总值)指数收益率×97%+中证可转换",
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.26
@@ -4658,7 +4658,7 @@
     "price": 1.619,
     "nav_prev": 1.6061,
     "nav_estimated": null,
-    "index_name": "中证全债指数×100%",
+    "index_name": "中债-新综合财富(1-3年)指数收益率×85%+中证可转换债",
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": 0.8
