@@ -1776,7 +1776,7 @@
     "price": 1.043,
     "nav_prev": 1.0507,
     "nav_estimated": null,
-    "index_name": "中证债券型基金指数收益率×80%+中证偏股型基金指数收益率×",
+    "index_name": "中证债券型基金指数收益率×85%+中证偏股型基金指数收益率×",
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.73
@@ -4482,7 +4482,7 @@
     "price": 1.714,
     "nav_prev": 1.7177,
     "nav_estimated": null,
-    "index_name": "伦敦黄金市场下午定盘价计价的国际现货黄金×50%+MSCI全",
+    "index_name": "伦敦黄金市场下午定盘价计价的国际现货黄金×95%+活期存款基",
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.22
