@@ -286,6 +286,17 @@
     "premium_prev": 0.56
   },
   {
+    "code": "160813",
+    "name": "长盛同盛成长优选灵活配置混合(LOF)",
+    "price": 1.826,
+    "nav_prev": 1.815,
+    "nav_estimated": 83.9079,
+    "index_name": "沪深300指数",
+    "index_change": 4523.02,
+    "premium_estimated": -97.82,
+    "premium_prev": 0.61
+  },
+  {
     "code": "163412",
     "name": "兴全轻资产投资混合(LOF)",
     "price": 4.065,
@@ -3771,6 +3782,17 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": 1.25
+  },
+  {
+    "code": "163827",
+    "name": "中银产业债一年定开债券(LOF)",
+    "price": 1.046,
+    "nav_prev": 1.106,
+    "nav_estimated": null,
+    "index_name": "一年定期存款利率(税后)×100%+1%",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": -5.42
   },
   {
     "code": "160918",
