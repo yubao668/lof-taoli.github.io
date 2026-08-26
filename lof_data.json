@@ -1687,9 +1687,9 @@
     "name": "富国中证医药主题指数增强(LOF)-A",
     "price": 1.309,
     "nav_prev": 1.313,
-    "nav_estimated": 106.4973,
+    "nav_estimated": 106.2642,
     "index_name": "中证医药指数",
-    "index_change": 8010.99,
+    "index_change": 7993.24,
     "premium_estimated": -98.77,
     "premium_prev": -0.3
   },
@@ -1698,9 +1698,9 @@
     "name": "鹏华中证医药卫生指数(LOF)-A",
     "price": 0.898,
     "nav_prev": 0.9016,
-    "nav_estimated": 73.1287,
+    "nav_estimated": 72.9686,
     "index_name": "中证医药指数",
-    "index_change": 8010.99,
+    "index_change": 7993.24,
     "premium_estimated": -98.77,
     "premium_prev": -0.4
   },
@@ -1709,9 +1709,9 @@
     "name": "长信医疗保健行业灵活配置混合(LOF)-A",
     "price": 1.43,
     "nav_prev": 1.444,
-    "nav_estimated": 117.1227,
+    "nav_estimated": 116.8663,
     "index_name": "中证医药指数",
-    "index_change": 8010.99,
+    "index_change": 7993.24,
     "premium_estimated": -98.78,
     "premium_prev": -0.97
   },
@@ -1829,12 +1829,12 @@
     "code": "501215",
     "name": "兴全积极配置混合(FOF-LOF)-A",
     "price": 1.084,
-    "nav_prev": 1.1088,
+    "nav_prev": 1.1102,
     "nav_estimated": null,
     "index_name": "中证偏股型基金指数收益率×70%+MSCI世界指数(MSCI",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -2.24
+    "premium_prev": -2.36
   },
   {
     "code": "501210",
