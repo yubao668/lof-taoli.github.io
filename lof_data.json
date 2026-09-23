@@ -3664,11 +3664,11 @@
   },
   {
     "code": "161229",
-    "name": "国投瑞银中国价值发现股票(QDII-LOF)",
+    "name": "国投瑞银中国价值发现股票(QDII-LOF)-A",
     "price": 1.366,
     "nav_prev": 1.3804,
     "nav_estimated": null,
-    "index_name": "一年定期存款利率(税后)×5%+MSCI中国指数(MSCI ",
+    "index_name": "一年定期存款利率(税后)×5%+MSCI中国指数(MSCIC",
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -1.04
