@@ -506,6 +506,17 @@
     "premium_prev": -0.49
   },
   {
+    "code": "160527",
+    "name": "博时研究优选灵活配置混合(LOF)-A",
+    "price": 0.787,
+    "nav_prev": 0.7893,
+    "nav_estimated": 36.414,
+    "index_name": "沪深300指数",
+    "index_change": 4513.45,
+    "premium_estimated": -97.84,
+    "premium_prev": -0.29
+  },
+  {
     "code": "501091",
     "name": "嘉实欣荣混合(LOF)-A",
     "price": 1.017,
@@ -896,6 +907,17 @@
     "price": 1.295,
     "nav_prev": 1.3076,
     "nav_estimated": 60.3255,
+    "index_name": "沪深300指数",
+    "index_change": 4513.45,
+    "premium_estimated": -97.85,
+    "premium_prev": -0.96
+  },
+  {
+    "code": "501092",
+    "name": "交银瑞思混合(LOF)",
+    "price": 1.277,
+    "nav_prev": 1.2894,
+    "nav_estimated": 59.4858,
     "index_name": "沪深300指数",
     "index_change": 4513.45,
     "premium_estimated": -97.85,
@@ -1483,6 +1505,17 @@
     "index_change": 4513.45,
     "premium_estimated": -97.88,
     "premium_prev": -2.09
+  },
+  {
+    "code": "167508",
+    "name": "安信价值发现两年定开混合(LOF)",
+    "price": 1.624,
+    "nav_prev": 1.6757,
+    "nav_estimated": 77.3076,
+    "index_name": "沪深300指数",
+    "index_change": 4513.45,
+    "premium_estimated": -97.9,
+    "premium_prev": -3.09
   },
   {
     "code": "501039",
@@ -2354,6 +2387,17 @@
     "premium_prev": -0.95
   },
   {
+    "code": "501096",
+    "name": "国联安科技创新混合(LOF)",
+    "price": 1.496,
+    "nav_prev": 1.4829,
+    "nav_estimated": null,
+    "index_name": "中国战略新兴产业成份指数收益率×80%+中证港股通科技指数(",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": 0.88
+  },
+  {
     "code": "501095",
     "name": "中银证券科技创新混合(LOF)",
     "price": 0.917,
@@ -2704,6 +2748,28 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.44
+  },
+  {
+    "code": "501307",
+    "name": "银河中证沪港深高股息指数(LOF)-A",
+    "price": 1.242,
+    "nav_prev": 1.2391,
+    "nav_estimated": null,
+    "index_name": "中证沪港深高股息指数收益率×95%+银行活期存款利率(税后)",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": 0.23
+  },
+  {
+    "code": "160722",
+    "name": "嘉实惠泽灵活配置混合(LOF)",
+    "price": 2.215,
+    "nav_prev": 2.2151,
+    "nav_estimated": null,
+    "index_name": "中证800指数收益率×90%+中债-综合财富(总值)指数收益",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": -0.0
   },
   {
     "code": "162416",
