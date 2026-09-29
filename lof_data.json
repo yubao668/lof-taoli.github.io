@@ -1012,6 +1012,17 @@
     "premium_prev": -0.24
   },
   {
+    "code": "165313",
+    "name": "建信优势动力混合(LOF)",
+    "price": 3.888,
+    "nav_prev": 3.911,
+    "nav_estimated": 173.0433,
+    "index_name": "沪深300指数",
+    "index_change": 4324.53,
+    "premium_estimated": -97.75,
+    "premium_prev": -0.59
+  },
+  {
     "code": "163415",
     "name": "兴全商业模式优选混合(LOF)-A",
     "price": 4.86,
@@ -1065,6 +1076,17 @@
     "index_change": 4324.53,
     "premium_estimated": -97.75,
     "premium_prev": -0.67
+  },
+  {
+    "code": "150044",
+    "name": "海富通稳进增利债券(LOF)-A",
+    "price": 1.144,
+    "nav_prev": 1.15,
+    "nav_estimated": 50.8821,
+    "index_name": "沪深300指数",
+    "index_change": 4324.53,
+    "premium_estimated": -97.75,
+    "premium_prev": -0.52
   },
   {
     "code": "160807",
@@ -1483,6 +1505,17 @@
     "index_change": 4324.53,
     "premium_estimated": -97.79,
     "premium_prev": -2.22
+  },
+  {
+    "code": "150045",
+    "name": "海富通稳进增利债券(LOF)-B",
+    "price": 1.651,
+    "nav_prev": 1.69,
+    "nav_estimated": 74.7745,
+    "index_name": "沪深300指数",
+    "index_change": 4324.53,
+    "premium_estimated": -97.79,
+    "premium_prev": -2.31
   },
   {
     "code": "501039",
@@ -3817,6 +3850,17 @@
     "premium_prev": -0.1
   },
   {
+    "code": "150132",
+    "name": "金鹰元盛债券(LOF)-B",
+    "price": 1.039,
+    "nav_prev": 1.047,
+    "nav_estimated": null,
+    "index_name": "中债-综合指数-财富指数×100%",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": -0.76
+  },
+  {
     "code": "162108",
     "name": "金鹰元盛债券(LOF)-C",
     "price": 1.345,
@@ -3826,6 +3870,28 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.58
+  },
+  {
+    "code": "160130",
+    "name": "南方永利1年定开债券(LOF)-A",
+    "price": 1.108,
+    "nav_prev": 1.128,
+    "nav_estimated": null,
+    "index_name": "一年期定期存款税后收益率×100%+1.2%",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": -1.77
+  },
+  {
+    "code": "163112",
+    "name": "申万菱信定开债券(LOF)",
+    "price": 1.11,
+    "nav_prev": 1.131,
+    "nav_estimated": null,
+    "index_name": "一年期金融机构人民币存款基准利率(税后)×100%+0.6%",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": -1.86
   },
   {
     "code": "150127",
