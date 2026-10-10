@@ -1829,12 +1829,12 @@
     "code": "501215",
     "name": "兴全积极配置混合(FOF-LOF)-A",
     "price": 1.037,
-    "nav_prev": 1.0549,
+    "nav_prev": 1.061,
     "nav_estimated": null,
     "index_name": "中证偏股型基金指数收益率×70%+MSCI世界指数(MSCI",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.7
+    "premium_prev": -2.26
   },
   {
     "code": "501210",
@@ -1851,12 +1851,12 @@
     "code": "501213",
     "name": "中欧汇选混合(FOF-LOF)-A",
     "price": 0.85,
-    "nav_prev": 0.8613,
+    "nav_prev": 0.8636,
     "nav_estimated": null,
     "index_name": "中证偏股型基金指数收益率×80%+银行活期存款利率(税后)×",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": -1.31
+    "premium_prev": -1.57
   },
   {
     "code": "501212",
