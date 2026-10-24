@@ -2376,17 +2376,6 @@
     "premium_prev": 3.82
   },
   {
-    "code": "501098",
-    "name": "建信优享科技创新混合(LOF)",
-    "price": 1.428,
-    "nav_prev": 1.4411,
-    "nav_estimated": null,
-    "index_name": "恒生指数",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.91
-  },
-  {
     "code": "501096",
     "name": "国联安科技创新混合(LOF)",
     "price": 1.049,
@@ -2902,17 +2891,6 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -1.58
-  },
-  {
-    "code": "160924",
-    "name": "大成恒生指数(QDII-LOF)-A",
-    "price": 0.915,
-    "nav_prev": 0.9112,
-    "nav_estimated": null,
-    "index_name": "恒生指数",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": 0.42
   },
   {
     "code": "501036",
@@ -4706,17 +4684,6 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.23
-  },
-  {
-    "code": "161210",
-    "name": "国投瑞银全球新兴市场精选股票(QDII-LOF)",
-    "price": 0.974,
-    "nav_prev": 0.965,
-    "nav_estimated": null,
-    "index_name": "MSCI新兴市场指数(MSCI Emerging Marke",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": 0.93
   },
   {
     "code": "162711",
