@@ -2904,17 +2904,6 @@
     "premium_prev": -1.58
   },
   {
-    "code": "160924",
-    "name": "大成恒生指数(QDII-LOF)-A",
-    "price": 0.915,
-    "nav_prev": 0.9112,
-    "nav_estimated": null,
-    "index_name": "恒生指数",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": 0.42
-  },
-  {
     "code": "501036",
     "name": "汇添富中证500ETF联接(LOF)-A",
     "price": 1.333,
