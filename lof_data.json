@@ -484,6 +484,17 @@
     "premium_prev": -0.08
   },
   {
+    "code": "162414",
+    "name": "华宝新机遇灵活配置混合(LOF)-A",
+    "price": 1.88,
+    "nav_prev": 1.8805,
+    "nav_estimated": 78.1282,
+    "index_name": "沪深300指数",
+    "index_change": 4054.65,
+    "premium_estimated": -97.59,
+    "premium_prev": -0.03
+  },
+  {
     "code": "163415",
     "name": "兴全商业模式优选混合(LOF)-A",
     "price": 4.462,
@@ -669,6 +680,17 @@
     "index_change": 4054.65,
     "premium_estimated": -97.6,
     "premium_prev": -0.2
+  },
+  {
+    "code": "501071",
+    "name": "泓德丰泽混合(LOF)-A",
+    "price": 0.915,
+    "nav_prev": 0.9189,
+    "nav_estimated": 38.1771,
+    "index_name": "沪深300指数",
+    "index_change": 4054.65,
+    "premium_estimated": -97.6,
+    "premium_prev": -0.42
   },
   {
     "code": "501062",
@@ -1131,17 +1153,6 @@
     "index_change": 4054.65,
     "premium_estimated": -97.61,
     "premium_prev": -0.61
-  },
-  {
-    "code": "160421",
-    "name": "华安智增精选灵活配置混合(LOF)",
-    "price": 1.328,
-    "nav_prev": 1.337,
-    "nav_estimated": 55.5477,
-    "index_name": "沪深300指数",
-    "index_change": 4054.65,
-    "premium_estimated": -97.61,
-    "premium_prev": -0.67
   },
   {
     "code": "168103",
@@ -2557,7 +2568,7 @@
     "price": 1.824,
     "nav_prev": 1.8372,
     "nav_estimated": null,
-    "index_name": "中证800指数收益率×20%+中债综合指数收益率×80%",
+    "index_name": "中债-综合全价(总值)指数收益率×60%+中证800指数收益",
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.72
@@ -2594,17 +2605,6 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -3.8
-  },
-  {
-    "code": "501071",
-    "name": "泓德丰泽混合(LOF)-A",
-    "price": 0.915,
-    "nav_prev": 0.9189,
-    "nav_estimated": null,
-    "index_name": "中证800指数收益率×70%+中国债券综合全价指数收益率×3",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.42
   },
   {
     "code": "160925",
@@ -3454,6 +3454,17 @@
     "premium_prev": -0.24
   },
   {
+    "code": "160421",
+    "name": "华安智增精选灵活配置混合(LOF)",
+    "price": 1.328,
+    "nav_prev": 1.337,
+    "nav_estimated": null,
+    "index_name": "中证800指数收益率×85%+中债-总全价(1-3年)指数收",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": -0.67
+  },
+  {
     "code": "161630",
     "name": "融通中证大农业指数(LOF)",
     "price": 0.934,
@@ -3690,7 +3701,7 @@
     "price": 1.64,
     "nav_prev": 1.6412,
     "nav_estimated": null,
-    "index_name": "中债-总指数×100%",
+    "index_name": "中债-1-5年债券综合全价(总值)指数收益率×55%+中证可",
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.07
@@ -3738,17 +3749,6 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.75
-  },
-  {
-    "code": "162414",
-    "name": "华宝新机遇灵活配置混合(LOF)-A",
-    "price": 1.88,
-    "nav_prev": 1.8805,
-    "nav_estimated": null,
-    "index_name": "一年定期存款利率(税后)×100%+3%",
-    "index_change": null,
-    "premium_estimated": null,
-    "premium_prev": -0.03
   },
   {
     "code": "164906",
