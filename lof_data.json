@@ -946,6 +946,17 @@
     "premium_prev": -0.37
   },
   {
+    "code": "161005",
+    "name": "富国天惠精选成长混合(LOF)-A",
+    "price": 2.587,
+    "nav_prev": 2.5993,
+    "nav_estimated": 107.4914,
+    "index_name": "沪深300指数",
+    "index_change": 4035.4,
+    "premium_estimated": -97.59,
+    "premium_prev": -0.47
+  },
+  {
     "code": "163402",
     "name": "兴全趋势投资混合(LOF)",
     "price": 0.766,
@@ -977,17 +988,6 @@
     "index_change": 4035.4,
     "premium_estimated": -97.59,
     "premium_prev": -0.44
-  },
-  {
-    "code": "169105",
-    "name": "东方红睿华沪港深灵活配置混合(LOF)-A",
-    "price": 1.824,
-    "nav_prev": 1.8376,
-    "nav_estimated": 75.992,
-    "index_name": "沪深300指数",
-    "index_change": 4035.4,
-    "premium_estimated": -97.6,
-    "premium_prev": -0.74
   },
   {
     "code": "160526",
@@ -2473,6 +2473,17 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -4.4
+  },
+  {
+    "code": "169105",
+    "name": "东方红睿华沪港深灵活配置混合(LOF)-A",
+    "price": 1.824,
+    "nav_prev": 1.8376,
+    "nav_estimated": null,
+    "index_name": "恒生指数",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": -0.74
   },
   {
     "code": "501079",
