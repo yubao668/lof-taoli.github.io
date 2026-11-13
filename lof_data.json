@@ -3734,7 +3734,7 @@
     "price": 1.052,
     "nav_prev": 1.0532,
     "nav_estimated": null,
-    "index_name": "中债-综合指数×100%",
+    "index_name": "中债-综合全价(总值)指数收益率×85%+中证可转换债券指数",
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.11
@@ -4053,7 +4053,7 @@
     "price": 1.081,
     "nav_prev": 1.0,
     "nav_estimated": null,
-    "index_name": "中债综合指数-全价指数×100%",
+    "index_name": "中债-综合全价(总值)指数收益率×70%+中证可转换债券指数",
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": 8.1
@@ -4064,7 +4064,7 @@
     "price": 1.317,
     "nav_prev": 1.314,
     "nav_estimated": null,
-    "index_name": "中债综合指数-全价指数×100%",
+    "index_name": "中债-综合全价(总值)指数收益率×70%+中证可转换债券指数",
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": 0.23
