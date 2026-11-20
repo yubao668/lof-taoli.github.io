@@ -1441,17 +1441,6 @@
     "premium_prev": -1.57
   },
   {
-    "code": "501091",
-    "name": "嘉实欣荣混合(LOF)-A",
-    "price": 0.79,
-    "nav_prev": 0.8086,
-    "nav_estimated": 32.2993,
-    "index_name": "沪深300指数",
-    "index_change": 3894.47,
-    "premium_estimated": -97.55,
-    "premium_prev": -2.3
-  },
-  {
     "code": "150045",
     "name": "海富通稳进增利债券(LOF)-B",
     "price": 1.651,
@@ -2418,6 +2407,17 @@
     "index_change": null,
     "premium_estimated": null,
     "premium_prev": -0.71
+  },
+  {
+    "code": "501091",
+    "name": "嘉实欣荣混合(LOF)-A",
+    "price": 0.79,
+    "nav_prev": 0.8086,
+    "nav_estimated": null,
+    "index_name": "恒生指数",
+    "index_change": null,
+    "premium_estimated": null,
+    "premium_prev": -2.3
   },
   {
     "code": "167506",
