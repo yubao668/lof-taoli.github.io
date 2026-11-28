@@ -1774,12 +1774,12 @@
     "code": "501213",
     "name": "中欧汇选混合(FOF-LOF)-A",
     "price": 0.787,
-    "nav_prev": 0.7366,
+    "nav_prev": 0.7219,
     "nav_estimated": null,
     "index_name": "中证偏股型基金指数收益率×80%+银行活期存款利率(税后)×",
     "index_change": null,
     "premium_estimated": null,
-    "premium_prev": 6.84
+    "premium_prev": 9.02
   },
   {
     "code": "501212",
